@@ -1,17 +1,16 @@
 import Image from 'next/image';
 import { content, metadata } from '@/lib/api';
-import { PageHero, ContentBlocks, CTA, SectionHeading, Button } from '@/components/UI';
-import Gallery from '@/components/Gallery';
+import { PageHero, CTA, SectionHeading, Button } from '@/components/UI';
+import CompanyTimeline from '@/components/CompanyTimeline';
 import Reveal from '@/components/Reveal';
 export async function generateMetadata() {
   const p = await content('/pages/about');
   return metadata('About Us | Packaging & Print Since 1996', p.lead, '/about');
 }
 export default async function About() {
-  const [page, settings, gallery] = await Promise.all([
+  const [page, settings] = await Promise.all([
     content('/pages/about'),
     content('/settings/public'),
-    content('/gallery?category=Company%20profile&limit=100'),
   ]);
   return (
     <>
@@ -21,7 +20,32 @@ export default async function About() {
           <div className="row g-5">
             <div className="col-lg-7">
               <Reveal>
-                <ContentBlocks blocks={page.blocks} />
+                <div className="prose">
+                  <p className="eyebrow">ABOUT US</p>
+                  <h2>Experience in every box. Care in every detail.</h2>
+                  <p>
+                    Since 1996, Paras Prints Solutions has built extensive expertise in
+                    manufacturing corrugated boxes, duplex boxes, gift boxes and monocartons.
+                    Located at B-8, B.S. Road Industrial Area, Ghaziabad, Uttar Pradesh, we supply
+                    corrugated boxes, monocartons, gift boxes and paper bags in bulk, with a focus
+                    on quality products and service.
+                  </p>
+                  <p>
+                    At our production house, products are manufactured in line with international
+                    standards, with attention to quality at every stage. Our experts work to
+                    understand the diverse requirements of our clients and provide a complete range
+                    of solutions to meet them.
+                  </p>
+                  <p>
+                    Our experienced team and machinery support the entire process, from design to
+                    the finished product. With machinery for every stage of manufacturing in-house,
+                    we bring packaging development and production together under one roof.
+                  </p>
+                  <p>
+                    Our range covers packaging boxes and office stationery, bringing quality and
+                    practical functionality to every order.
+                  </p>
+                </div>
               </Reveal>
             </div>
             <div className="col-lg-5">
@@ -51,7 +75,11 @@ export default async function About() {
             {page.highlights.map((h) => (
               <Reveal key={h.title}>
                 <h2>{h.title}</h2>
-                <p>{h.text}</p>
+                <p>
+                  {h.title === 'Since 1996'
+                    ? 'Three decades of experience in packaging and print.'
+                    : h.text}
+                </p>
               </Reveal>
             ))}
           </div>
@@ -60,11 +88,11 @@ export default async function About() {
       <section className="section section--soft">
         <div className="container">
           <SectionHeading
-            eyebrow="THE COMPANY PROFILE"
-            title="The original document, page by page."
-            text="Reproduced from the supplied profile. Historical claims and contact details in the document should be confirmed with the company."
+            eyebrow="OUR JOURNEY · 1996–2026"
+            title="From screen printing to complete packaging solutions."
+            text="Three decades of new capabilities, growing facilities and investment in print and packaging. Follow the milestones that shaped Paras Prints Solutions."
           />
-          <Gallery items={gallery} />
+          <CompanyTimeline />
         </div>
       </section>
       <CTA company={settings.company} />

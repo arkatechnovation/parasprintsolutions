@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight, ArrowUpRight, Box, Layers, Printer } from 'lucide-react';
+import { ArrowUpRight, Box, Layers, Printer } from 'lucide-react';
 import { content, jsonLd, siteUrl } from '@/lib/api';
 import { Button, SectionHeading, ProductGrid, FAQ, CTA, ArticleCard } from '@/components/UI';
 import HeroSlider from '@/components/HeroSlider';
@@ -236,14 +236,14 @@ export default async function HomePage() {
           </Reveal>
           <div className="industry-grid">
             {industries.map((item, i) => (
-              <Reveal key={item.slug} delay={(i % 4) * 0.04}>
+              <Reveal key={item.slug} delay={(i % 3) * 0.04}>
                 <Link href={`/industries/${item.slug}`} className="industry-card">
                   <Image
                     src={item.image.src}
                     alt={item.image.alt}
                     width={item.image.width}
                     height={item.image.height}
-                    sizes="(max-width:575px) 100vw,(max-width:991px) 50vw,25vw"
+                    sizes="(max-width:575px) 100vw,(max-width:991px) 50vw,33vw"
                   />
                   <div>
                     <h3>{item.name}</h3>
@@ -268,7 +268,7 @@ export default async function HomePage() {
                   the team.
                 </p>
                 <ul className="clean-list">
-                  {machines.slice(0, 3).map((m) => (
+                  {machines.slice(0, 2).map((m) => (
                     <li key={m.slug}>{m.name}</li>
                   ))}
                 </ul>
@@ -350,7 +350,6 @@ export default async function HomePage() {
                     <div className="sheet-line" key={n}>
                       <span>{n}</span>
                       <strong>{t}</strong>
-                      <ArrowRight size={17} />
                     </div>
                   ))}
                   <p>Less guesswork. A more useful brief.</p>

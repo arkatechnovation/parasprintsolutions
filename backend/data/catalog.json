@@ -86,8 +86,7 @@
       "industrySlugs": [
         "electrical-electronics",
         "automotive",
-        "ecommerce",
-        "home-appliances"
+        "ecommerce"
       ],
       "faqs": [
         {
@@ -330,7 +329,6 @@
       ],
       "industrySlugs": [
         "electrical-electronics",
-        "engineering",
         "fmcg"
       ],
       "faqs": [
@@ -411,9 +409,7 @@
         }
       ],
       "industrySlugs": [
-        "engineering",
-        "automotive",
-        "home-appliances"
+        "automotive"
       ],
       "faqs": [
         {
@@ -880,51 +876,6 @@
       }
     },
     {
-      "slug": "engineering",
-      "name": "Engineering Goods",
-      "summary": "Component shippers and technical print",
-      "description": "Engineering goods are listed among the company’s sectors. Components can have different handling and identification needs, so the quotation should include item dimensions, weight and the proposed pack arrangement. Technical catalogues and manuals can be specified alongside product packaging. Supply final technical content separately from packaging artwork.",
-      "requirements": [
-        "Component weight and loading orientation",
-        "Identification and handling markings",
-        "Technical documentation formats"
-      ],
-      "considerations": [
-        "Discuss dividers and protection around critical surfaces.",
-        "Agree load and transport checks for the actual pack."
-      ],
-      "productSlugs": [
-        "corrugated-boxes",
-        "catalogues",
-        "brochures"
-      ],
-      "image": {
-        "src": "/assets/paras_print_industry/06-engineering-goods.jpg",
-        "alt": "Engineering Goods — illustrative industry visual",
-        "width": 1000,
-        "height": 600,
-        "kind": "illustrative"
-      },
-      "faqs": [
-        {
-          "question": "What should I include in an enquiry?",
-          "answer": "Component weight and loading orientation; Identification and handling markings; Technical documentation formats. Attach approved drawings or artwork where available.",
-          "category": "General"
-        },
-        {
-          "question": "How is the final specification confirmed?",
-          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
-          "category": "General"
-        }
-      ],
-      "status": "published",
-      "order": 5,
-      "seo": {
-        "title": "Engineering Goods Packaging & Printing",
-        "description": "Component shippers and technical print from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
-      }
-    },
-    {
       "slug": "ecommerce",
       "name": "E-commerce",
       "summary": "Mailers, shipping cartons and customer presentation",
@@ -963,55 +914,10 @@
         }
       ],
       "status": "published",
-      "order": 6,
+      "order": 5,
       "seo": {
         "title": "E-commerce Packaging & Printing",
         "description": "Mailers, shipping cartons and customer presentation from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
-      }
-    },
-    {
-      "slug": "home-appliances",
-      "name": "Home Appliances",
-      "summary": "Outer cartons and supporting product information",
-      "description": "Home appliances appear in the company’s published sector and client information. Carton dimensions should be specified against the fully protected product, including any cushioning and accessories. Include product orientation, stacking and handling requirements in the enquiry. Instruction leaflets and product catalogues can be reviewed as separate print items.",
-      "requirements": [
-        "Protected product dimensions and weight",
-        "Accessory and inner-pack arrangement",
-        "Handling marks and documentation"
-      ],
-      "considerations": [
-        "Specify your required drop, stacking or transport checks for confirmation.",
-        "Published capacity and tolerance figures remain subject to company verification."
-      ],
-      "productSlugs": [
-        "corrugated-boxes",
-        "catalogues",
-        "leaflets"
-      ],
-      "image": {
-        "src": "/assets/paras_print_industry/09-home-appliance.jpg",
-        "alt": "Home Appliances — illustrative industry visual",
-        "width": 1000,
-        "height": 600,
-        "kind": "illustrative"
-      },
-      "faqs": [
-        {
-          "question": "What should I include in an enquiry?",
-          "answer": "Protected product dimensions and weight; Accessory and inner-pack arrangement; Handling marks and documentation. Attach approved drawings or artwork where available.",
-          "category": "General"
-        },
-        {
-          "question": "How is the final specification confirmed?",
-          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
-          "category": "General"
-        }
-      ],
-      "status": "published",
-      "order": 7,
-      "seo": {
-        "title": "Home Appliances Packaging & Printing",
-        "description": "Outer cartons and supporting product information from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
       }
     }
   ],
