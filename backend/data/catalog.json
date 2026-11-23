@@ -1,0 +1,2987 @@
+{
+  "categories": [
+    {
+      "slug": "packaging-boxes",
+      "name": "Packaging & Boxes",
+      "description": "Heavy-Duty Corrugation, Duplex Monocartons & Custom Paper Bags",
+      "status": "published",
+      "order": 0
+    },
+    {
+      "slug": "commercial-print",
+      "name": "Commercial Print",
+      "description": "High-Speed Komori 6-Colour UV Offset Marketing Collateral & Catalogues",
+      "status": "published",
+      "order": 1
+    },
+    {
+      "slug": "stationery-tapes",
+      "name": "Stationery & Tapes",
+      "description": "Writing Pads, Digital Print & Printed BOPP Tapes",
+      "status": "published",
+      "order": 2
+    }
+  ],
+  "products": [
+    {
+      "slug": "corrugated-boxes",
+      "status": "published",
+      "name": "Corrugated Boxes",
+      "categorySlug": "packaging-boxes",
+      "categoryName": "Packaging & Boxes",
+      "summary": "Engineered master shippers, regular slotted containers (RSC), and precision die-cut trays with high burst resistance and stack compression strength for appliances, FMCG, and automotive items.",
+      "features": [
+        "Master shippers for industrial products",
+        "E-commerce mailers and distribution cartons",
+        "Appliance and automotive component packs"
+      ],
+      "images": [
+        {
+          "src": "/assets/corrugated-boxes-enterprise.jpg",
+          "alt": "Heavy-duty corrugated boxes - 3, 5 and 7 ply master shippers — representative product visual",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "duplex-boxes",
+        "paper-bags"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 0,
+      "description": "Corrugated packaging for industrial products, shipping and distribution. The published portfolio includes regular slotted containers, die-cut mailers, trays and heavy-duty cartons. Define the packing method and product load before selecting a board construction.",
+      "materials": [
+        "Kraft liners",
+        "Corrugated board — 3, 5 and 7 ply as listed"
+      ],
+      "printingOptions": [
+        "Printed shipping identification",
+        "Discuss flexographic or litho-laminated artwork with the team"
+      ],
+      "finishingOptions": [
+        "Glued or stitched construction, subject to specification",
+        "Partitions, hand holes and vents by enquiry"
+      ],
+      "applications": [
+        "Master shippers for industrial products",
+        "E-commerce mailers and distribution cartons",
+        "Appliance and automotive component packs"
+      ],
+      "specifications": [
+        {
+          "label": "Published constructions",
+          "value": "3, 5 and 7 ply"
+        },
+        {
+          "label": "Published flute profiles",
+          "value": "A, B, C and E"
+        },
+        {
+          "label": "Dimensions",
+          "value": "Custom dimensions confirmed during quotation"
+        }
+      ],
+      "industrySlugs": [
+        "electrical-electronics",
+        "automotive",
+        "ecommerce",
+        "home-appliances"
+      ],
+      "faqs": [
+        {
+          "question": "How do I specify a corrugated carton?",
+          "answer": "Provide internal length, width and height with units, packed product weight, quantity and the intended handling conditions.",
+          "category": "General"
+        },
+        {
+          "question": "Which box styles are listed?",
+          "answer": "The published range lists regular slotted containers, self-locking mailers, full-overlap containers, telescopic styles, trays and bulk bins. Ask the team to confirm suitability for your product.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Corrugated Boxes | Custom Packaging & Print",
+        "description": "Engineered master shippers, regular slotted containers (RSC), and precision die-cut trays with high burst resistance and stack compression strength for app"
+      }
+    },
+    {
+      "slug": "duplex-boxes",
+      "status": "published",
+      "name": "Duplex Boxes",
+      "categorySlug": "packaging-boxes",
+      "categoryName": "Packaging & Boxes",
+      "summary": "High-definition printed monocartons, luxury rigid presentation boxes, and consumer electronics retail packs with metallic foil stamping, hybrid UV gloss/matte effects, and computerized die-cutting.",
+      "features": [
+        "Consumer electronics retail packaging",
+        "Gift and presentation packs",
+        "Personal care and retail monocartons"
+      ],
+      "images": [
+        {
+          "src": "/assets/duplex-boxes-enterprise.jpg",
+          "alt": "Printed duplex monocartons and rigid gift boxes with foil and UV finishes",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "corrugated-boxes",
+        "paper-bags"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 1,
+      "description": "Printed paperboard packaging for product presentation, consumer goods and retail display. The source portfolio describes monocartons, presentation boxes and retail packs. Artwork, crease placement and finishing should be reviewed together before production.",
+      "materials": [
+        "Grey-back duplex board",
+        "White-back duplex board"
+      ],
+      "printingOptions": [
+        "Multi-colour offset printing"
+      ],
+      "finishingOptions": [
+        "Metallic foil stamping",
+        "Gloss or matte lamination",
+        "Spot UV, subject to artwork and board suitability"
+      ],
+      "applications": [
+        "Consumer electronics retail packaging",
+        "Gift and presentation packs",
+        "Personal care and retail monocartons"
+      ],
+      "specifications": [
+        {
+          "label": "Published board range",
+          "value": "250–450+ GSM; exact grade subject to confirmation"
+        },
+        {
+          "label": "Construction",
+          "value": "Monocartons and presentation packaging"
+        },
+        {
+          "label": "Artwork",
+          "value": "Quote against approved dimensions and dieline"
+        }
+      ],
+      "industrySlugs": [
+        "electrical-electronics",
+        "pharmaceuticals",
+        "fmcg"
+      ],
+      "faqs": [
+        {
+          "question": "Which board should I choose?",
+          "answer": "Tell the team the packed product size and weight, presentation goals and proposed finish. Request a recommended board grade and sample.",
+          "category": "General"
+        },
+        {
+          "question": "Can I combine foil and UV finishes?",
+          "answer": "Both finishes appear in the published portfolio. Ask the team to review compatibility with your chosen board, artwork and production quantity.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Duplex Boxes | Custom Packaging & Print",
+        "description": "High-definition printed monocartons, luxury rigid presentation boxes, and consumer electronics retail packs with metallic foil stamping, hybrid UV gloss/ma"
+      }
+    },
+    {
+      "slug": "paper-bags",
+      "status": "published",
+      "name": "Paper Bags",
+      "categorySlug": "packaging-boxes",
+      "categoryName": "Packaging & Boxes",
+      "summary": "Sustainable virgin brown kraft and luxury laminated duplex retail shopping bags with heavy bottom boards, twisted cord, or grosgrain ribbon handles for premium retail, showrooms, and corporate branding.",
+      "features": [
+        "Retail shopping",
+        "Showroom presentation",
+        "Corporate gifting"
+      ],
+      "images": [
+        {
+          "src": "/assets/paper-bags-showcase.jpg",
+          "alt": "Kraft and duplex paper bags with twisted cord and ribbon handles",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "corrugated-boxes",
+        "duplex-boxes"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 2,
+      "description": "Paper carry bags for retail, showrooms and business gifting. The published range includes kraft and laminated duplex bags with different handle constructions. Review the intended load and base reinforcement when developing the bag specification.",
+      "materials": [
+        "Brown kraft paper",
+        "Laminated duplex paper"
+      ],
+      "printingOptions": [
+        "Custom printed brand artwork"
+      ],
+      "finishingOptions": [
+        "Twisted cord or rope handles",
+        "Ribbon handles",
+        "Reinforced bottom boards"
+      ],
+      "applications": [
+        "Retail shopping",
+        "Showroom presentation",
+        "Corporate gifting"
+      ],
+      "specifications": [
+        {
+          "label": "Published paper range",
+          "value": "120–250 GSM; exact construction confirmed by enquiry"
+        },
+        {
+          "label": "Handle options",
+          "value": "Twisted cord, rope and ribbon as published"
+        },
+        {
+          "label": "Size",
+          "value": "Custom dimensions subject to sample approval"
+        }
+      ],
+      "industrySlugs": [
+        "fmcg",
+        "food-beverages"
+      ],
+      "faqs": [
+        {
+          "question": "How should I choose a handle?",
+          "answer": "Include the expected carrying load, bag dimensions and preferred presentation. Ask the team to confirm the handle and reinforcement construction.",
+          "category": "General"
+        },
+        {
+          "question": "Are bags available with custom branding?",
+          "answer": "Printed branding is listed in the paper bag portfolio. Share vector artwork or a clear reference with your enquiry.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Paper Bags | Custom Packaging & Print",
+        "description": "Sustainable virgin brown kraft and luxury laminated duplex retail shopping bags with heavy bottom boards, twisted cord, or grosgrain ribbon handles for pre"
+      }
+    },
+    {
+      "slug": "brochures",
+      "status": "published",
+      "name": "Brochures",
+      "categorySlug": "commercial-print",
+      "categoryName": "Commercial Print",
+      "summary": "Multi-page corporate brochures, corporate profiles, and technical sales brochures with Komori 6-colour registration, thermal matte lamination, spot gloss UV, and automated precision fold creasing.",
+      "features": [
+        "Corporate profiles",
+        "Technical sales brochures",
+        "Product launch and sales literature"
+      ],
+      "images": [
+        {
+          "src": "/assets/brochures-enterprise.jpg",
+          "alt": "Multi-fold corporate brochures printed on Komori 6-colour UV offset press",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "catalogues",
+        "leaflets"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 3,
+      "description": "Folded and multi-page commercial printing for company introductions, sales presentations and technical communication. The published portfolio describes corporate brochures and profiles with offset printing and finishing options. Plan the fold pattern alongside the reading order.",
+      "materials": [
+        "Art paper — grade to be confirmed"
+      ],
+      "printingOptions": [
+        "Multi-colour offset printing"
+      ],
+      "finishingOptions": [
+        "Thermal matte lamination",
+        "Spot gloss UV and drip-off finishes",
+        "Fold creasing"
+      ],
+      "applications": [
+        "Corporate profiles",
+        "Technical sales brochures",
+        "Product launch and sales literature"
+      ],
+      "specifications": [
+        {
+          "label": "Published paper range",
+          "value": "170–350 GSM; subject to the chosen format"
+        },
+        {
+          "label": "Formats",
+          "value": "Multi-fold and multi-page brochures"
+        },
+        {
+          "label": "Content planning",
+          "value": "Provide page count, finished size and artwork"
+        }
+      ],
+      "industrySlugs": [
+        "electrical-electronics",
+        "engineering",
+        "fmcg"
+      ],
+      "faqs": [
+        {
+          "question": "What information is needed for a brochure quote?",
+          "answer": "Provide the finished size, flat size if folded, number of pages or panels, quantity, paper preference and finishing requirements.",
+          "category": "General"
+        },
+        {
+          "question": "Can a brochure be folded in different ways?",
+          "answer": "Multi-fold formats are listed. Share a fold reference or ask the team to confirm a fold pattern suitable for your content and paper.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Brochures | Custom Packaging & Print",
+        "description": "Multi-page corporate brochures, corporate profiles, and technical sales brochures with Komori 6-colour registration, thermal matte lamination, spot gloss U"
+      }
+    },
+    {
+      "slug": "catalogues",
+      "status": "published",
+      "name": "Catalogues",
+      "categorySlug": "commercial-print",
+      "categoryName": "Commercial Print",
+      "summary": "Thick multi-page product catalogues, dealer manuals, and technical booklets. Automated saddle stitching, wire-o binding, or high-durability PUR perfect binding with square back spine finish.",
+      "features": [
+        "Product range catalogues",
+        "Dealer manuals",
+        "Technical booklets"
+      ],
+      "images": [
+        {
+          "src": "/assets/catalogues-enterprise.jpg",
+          "alt": "Multi-page product catalogues with perfect binding and section sewing",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "brochures",
+        "leaflets"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 4,
+      "description": "Multi-page product catalogues, dealer manuals and technical booklets. Binding and pagination influence how a catalogue opens and how the product range is organised. The published portfolio lists stitched, wire-bound and perfect-bound options.",
+      "materials": [
+        "Cover and inner paper grades by enquiry"
+      ],
+      "printingOptions": [
+        "Multi-colour offset printing"
+      ],
+      "finishingOptions": [
+        "Saddle stitching",
+        "Wire-O binding",
+        "PUR perfect binding",
+        "Section sewing as published"
+      ],
+      "applications": [
+        "Product range catalogues",
+        "Dealer manuals",
+        "Technical booklets"
+      ],
+      "specifications": [
+        {
+          "label": "Published page range",
+          "value": "Up to 240+ pages; binding suitability to be confirmed"
+        },
+        {
+          "label": "Binding choices",
+          "value": "Saddle stitch, Wire-O and PUR perfect binding"
+        },
+        {
+          "label": "Quote details",
+          "value": "Finished size, cover/inner paper, page count and quantity"
+        }
+      ],
+      "industrySlugs": [
+        "engineering",
+        "automotive",
+        "home-appliances"
+      ],
+      "faqs": [
+        {
+          "question": "Which binding is suitable for my catalogue?",
+          "answer": "Share the page count, paper grades and how the catalogue will be used. Ask for a binding recommendation and a sample before approving production.",
+          "category": "General"
+        },
+        {
+          "question": "Do the cover and inner pages need the same paper?",
+          "answer": "Include separate cover and inner paper preferences in your brief. The team can confirm the available combination.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Catalogues | Custom Packaging & Print",
+        "description": "Thick multi-page product catalogues, dealer manuals, and technical booklets. Automated saddle stitching, wire-o binding, or high-durability PUR perfect bin"
+      }
+    },
+    {
+      "slug": "leaflets",
+      "status": "published",
+      "name": "Leaflets",
+      "categorySlug": "commercial-print",
+      "categoryName": "Commercial Print",
+      "summary": "Medical package inserts (IFU), warranty cards, and promotional leaflets folded with automated miniature folding machines. High contrast microscopic text legibility with barcode verification.",
+      "features": [
+        "Product instructions and inserts",
+        "Warranty cards",
+        "Promotional information"
+      ],
+      "images": [
+        {
+          "src": "/assets/leaflets-print-showcase.jpg",
+          "alt": "Pharma package inserts and promotional leaflets with accordion folding",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "brochures",
+        "catalogues"
+      ],
+      "primary": true,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 5,
+      "description": "Compact commercial print for product information, promotional messages, warranty cards and package inserts. The published portfolio includes miniature and accordion folding. Finished size and the reading sequence should be established before the artwork is laid out.",
+      "materials": [
+        "Paper grades appropriate to the selected fold"
+      ],
+      "printingOptions": [
+        "High-contrast printed information and brand artwork"
+      ],
+      "finishingOptions": [
+        "Miniature folding",
+        "Accordion folding"
+      ],
+      "applications": [
+        "Product instructions and inserts",
+        "Warranty cards",
+        "Promotional information"
+      ],
+      "specifications": [
+        {
+          "label": "Published paper range",
+          "value": "60–130 GSM; suitability confirmed against the fold"
+        },
+        {
+          "label": "Published formats",
+          "value": "Package inserts, warranty cards and promotional leaflets"
+        },
+        {
+          "label": "Artwork",
+          "value": "Provide flat size, folded size and final approved text"
+        }
+      ],
+      "industrySlugs": [
+        "pharmaceuticals",
+        "electrical-electronics",
+        "fmcg"
+      ],
+      "faqs": [
+        {
+          "question": "What sizes should I specify for an insert?",
+          "answer": "Supply both the flat sheet size and the final folded size with units, plus the number of folds and packing orientation if known.",
+          "category": "General"
+        },
+        {
+          "question": "Can a leaflet be used for medical instructions?",
+          "answer": "The source lists medical package inserts. Any regulated text, approvals and compliance requirements must be supplied and confirmed by the customer and company; this website does not certify compliance.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Leaflets | Custom Packaging & Print",
+        "description": "Medical package inserts (IFU), warranty cards, and promotional leaflets folded with automated miniature folding machines. High contrast microscopic text le"
+      }
+    },
+    {
+      "slug": "writing-pads",
+      "status": "published",
+      "name": "Writing Pads",
+      "categorySlug": "stationery-tapes",
+      "categoryName": "Stationery & Tapes",
+      "summary": "Corporate writing pads and printed stationery supplied alongside commercial print programmes for business houses and brand owners.",
+      "features": [
+        "Business stationery and packaging programmes"
+      ],
+      "images": [
+        {
+          "src": "/assets/paras-products-collage.jpg",
+          "alt": "Corporate writing pads and printed stationery produced by Paras Prints Solutions",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "digital-print",
+        "bopp-tapes"
+      ],
+      "primary": false,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 6,
+      "description": "Corporate writing pads and printed stationery supplied alongside commercial print programmes for business houses and brand owners.",
+      "materials": [],
+      "printingOptions": [],
+      "finishingOptions": [],
+      "applications": [
+        "Business stationery and packaging programmes"
+      ],
+      "specifications": [],
+      "industrySlugs": [],
+      "faqs": [
+        {
+          "question": "How can I request this product?",
+          "answer": "Send the quantity, intended use and artwork requirements for a reviewed quotation.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Writing Pads | Custom Packaging & Print",
+        "description": "Corporate writing pads and printed stationery supplied alongside commercial print programmes for business houses and brand owners."
+      }
+    },
+    {
+      "slug": "digital-print",
+      "status": "published",
+      "name": "Digital Print",
+      "categorySlug": "stationery-tapes",
+      "categoryName": "Stationery & Tapes",
+      "summary": "Digital print runs for short-run and quick-turnaround requirements, offered alongside our offset and corrugation capabilities.",
+      "features": [
+        "Business stationery and packaging programmes"
+      ],
+      "images": [
+        {
+          "src": "/assets/paras-products-collage.jpg",
+          "alt": "Digital print and short-run commercial print jobs",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "writing-pads",
+        "bopp-tapes"
+      ],
+      "primary": false,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 7,
+      "description": "Digital print runs for short-run and quick-turnaround requirements, offered alongside our offset and corrugation capabilities.",
+      "materials": [],
+      "printingOptions": [],
+      "finishingOptions": [],
+      "applications": [
+        "Business stationery and packaging programmes"
+      ],
+      "specifications": [],
+      "industrySlugs": [],
+      "faqs": [
+        {
+          "question": "How can I request this product?",
+          "answer": "Send the quantity, intended use and artwork requirements for a reviewed quotation.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "Digital Print | Custom Packaging & Print",
+        "description": "Digital print runs for short-run and quick-turnaround requirements, offered alongside our offset and corrugation capabilities."
+      }
+    },
+    {
+      "slug": "bopp-tapes",
+      "status": "published",
+      "name": "BOPP Tapes",
+      "categorySlug": "stationery-tapes",
+      "categoryName": "Stationery & Tapes",
+      "summary": "Printed BOPP tapes supplied as packaging consumables for carton sealing and brand identification across dispatch lines.",
+      "features": [
+        "Business stationery and packaging programmes"
+      ],
+      "images": [
+        {
+          "src": "/assets/paras-products-collage.jpg",
+          "alt": "Printed BOPP packaging tapes for carton sealing",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        }
+      ],
+      "relatedSlugs": [
+        "writing-pads",
+        "digital-print"
+      ],
+      "primary": false,
+      "sourceNote": "Options are taken from the published company portfolio. Exact grades, combinations and suitability are confirmed in a written quotation. Product images are supplied illustrative visuals; they are not evidence of a specific completed customer job.",
+      "order": 8,
+      "description": "Printed BOPP tapes supplied as packaging consumables for carton sealing and brand identification across dispatch lines.",
+      "materials": [],
+      "printingOptions": [],
+      "finishingOptions": [],
+      "applications": [
+        "Business stationery and packaging programmes"
+      ],
+      "specifications": [],
+      "industrySlugs": [],
+      "faqs": [
+        {
+          "question": "How can I request this product?",
+          "answer": "Send the quantity, intended use and artwork requirements for a reviewed quotation.",
+          "category": "General"
+        }
+      ],
+      "seo": {
+        "title": "BOPP Tapes | Custom Packaging & Print",
+        "description": "Printed BOPP tapes supplied as packaging consumables for carton sealing and brand identification across dispatch lines."
+      }
+    }
+  ],
+  "industries": [
+    {
+      "slug": "electrical-electronics",
+      "name": "Electrical & Electronics",
+      "summary": "Retail cartons, product inserts and distribution packaging",
+      "description": "The published client portfolio names electrical, lighting and electronics businesses. Packing requirements may cover branded retail cartons, individual component packs and outer distribution boxes. Keep retail presentation, identification and transport protection in the same specification. Tell the team whether each item is packed individually or grouped into a master carton.",
+      "requirements": [
+        "Product dimensions and packed weight",
+        "Brand artwork and product identification",
+        "Inner packs and master carton arrangement"
+      ],
+      "considerations": [
+        "Share handling-sensitive components and packing orientation.",
+        "Confirm any product-specific labelling or compliance requirements separately."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "duplex-boxes",
+        "leaflets"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/06-engineering-goods.jpg",
+        "alt": "Electrical & Electronics — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Product dimensions and packed weight; Brand artwork and product identification; Inner packs and master carton arrangement. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 0,
+      "seo": {
+        "title": "Electrical & Electronics Packaging & Printing",
+        "description": "Retail cartons, product inserts and distribution packaging from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "automotive",
+      "name": "Automotive",
+      "summary": "Cartons for components and replacement parts",
+      "description": "The source describes CKD spares and component packaging among its automotive applications. Part shape, mass and how items are separated are useful starting points for a packaging brief. Provide drawings or clear reference photographs where available. Ask the team to review inserts and carton construction against the actual packing method.",
+      "requirements": [
+        "Part geometry and quantity per carton",
+        "Dividers or separation between components",
+        "Storage and transport handling"
+      ],
+      "considerations": [
+        "Flag sharp edges, surface-finish protection and returnable packing needs.",
+        "Agree the final sample and testing requirements before ordering."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "catalogues"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/08-automotive-industry.jpg",
+        "alt": "Automotive — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Part geometry and quantity per carton; Dividers or separation between components; Storage and transport handling. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 1,
+      "seo": {
+        "title": "Automotive Packaging & Printing",
+        "description": "Cartons for components and replacement parts from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "pharmaceuticals",
+      "name": "Pharmaceuticals",
+      "summary": "Monocartons and folded product information",
+      "description": "The published portfolio includes pharma monocartons and package inserts. A quotation brief should separate the printed outer pack, the insert and any master-shipping requirement. Approved text, artwork version control and finished insert size should be established before production. Regulatory compliance must be confirmed with the company for the specific project.",
+      "requirements": [
+        "Carton dimensions and product arrangement",
+        "Approved artwork and insert text",
+        "Flat and folded insert dimensions"
+      ],
+      "considerations": [
+        "Provide applicable regulatory and customer quality requirements.",
+        "No pharmaceutical certification or regulatory compliance is asserted by this website."
+      ],
+      "productSlugs": [
+        "duplex-boxes",
+        "leaflets",
+        "corrugated-boxes"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/04-pharmaceuticals.jpg",
+        "alt": "Pharmaceuticals — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Carton dimensions and product arrangement; Approved artwork and insert text; Flat and folded insert dimensions. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 2,
+      "seo": {
+        "title": "Pharmaceuticals Packaging & Printing",
+        "description": "Monocartons and folded product information from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "food-beverages",
+      "name": "Food & Beverages",
+      "summary": "Printed retail and outer distribution packaging",
+      "description": "Food industry packaging appears in the published sector list. State whether packaging is an outer carton, a carry bag or a pack intended for direct food contact; these requirements should never be treated as interchangeable. The team must confirm the material and suitability for the intended use. No food-contact approval is claimed here.",
+      "requirements": [
+        "Product format and pack count",
+        "Temperature, moisture and handling conditions",
+        "Whether direct contact is intended"
+      ],
+      "considerations": [
+        "Request evidence of any food-contact suitability needed for the project.",
+        "Confirm material, artwork and delivery requirements in writing."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "duplex-boxes",
+        "paper-bags"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/03-food-industry.jpg",
+        "alt": "Food & Beverages — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Product format and pack count; Temperature, moisture and handling conditions; Whether direct contact is intended. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 3,
+      "seo": {
+        "title": "Food & Beverages Packaging & Printing",
+        "description": "Printed retail and outer distribution packaging from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "fmcg",
+      "name": "FMCG & Retail",
+      "summary": "Branded packaging for consumer goods",
+      "description": "The source describes packaging for consumer goods and retail brands, including printed monocartons and paper carry bags. Presentation requirements should be considered together with how goods reach the shelf. Describe the sales channel, shelf arrangement and intended unboxing or carrying experience. A structural sample helps confirm fit before final artwork is released.",
+      "requirements": [
+        "Retail display and shelf orientation",
+        "Brand colour and finishing requirements",
+        "Unit pack and distribution carton quantities"
+      ],
+      "considerations": [
+        "Confirm any specialised coatings or finishes with the team.",
+        "Do not infer a material claim from a representative product image."
+      ],
+      "productSlugs": [
+        "duplex-boxes",
+        "paper-bags",
+        "brochures"
+      ],
+      "image": {
+        "src": "/assets/paras-products-collage.jpg",
+        "alt": "FMCG & Retail — illustrative industry visual",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Retail display and shelf orientation; Brand colour and finishing requirements; Unit pack and distribution carton quantities. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 4,
+      "seo": {
+        "title": "FMCG & Retail Packaging & Printing",
+        "description": "Branded packaging for consumer goods from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "engineering",
+      "name": "Engineering Goods",
+      "summary": "Component shippers and technical print",
+      "description": "Engineering goods are listed among the company’s sectors. Components can have different handling and identification needs, so the quotation should include item dimensions, weight and the proposed pack arrangement. Technical catalogues and manuals can be specified alongside product packaging. Supply final technical content separately from packaging artwork.",
+      "requirements": [
+        "Component weight and loading orientation",
+        "Identification and handling markings",
+        "Technical documentation formats"
+      ],
+      "considerations": [
+        "Discuss dividers and protection around critical surfaces.",
+        "Agree load and transport checks for the actual pack."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "catalogues",
+        "brochures"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/06-engineering-goods.jpg",
+        "alt": "Engineering Goods — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Component weight and loading orientation; Identification and handling markings; Technical documentation formats. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 5,
+      "seo": {
+        "title": "Engineering Goods Packaging & Printing",
+        "description": "Component shippers and technical print from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "ecommerce",
+      "name": "E-commerce",
+      "summary": "Mailers, shipping cartons and customer presentation",
+      "description": "The published portfolio lists self-locking mailers and shipping cartons for e-commerce. Share the packed product dimensions, shipment method and whether the same carton must also create a branded presentation. Account for inserts, closure and handling in the packaging brief. The final board selection and production quantity are confirmed through the quotation process.",
+      "requirements": [
+        "Packed dimensions rather than bare product dimensions",
+        "Closure, inserts and packing sequence",
+        "Print artwork and delivery destination"
+      ],
+      "considerations": [
+        "Request a sample for fit and packing evaluation.",
+        "A packaging choice does not by itself guarantee freedom from transit damage."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "duplex-boxes",
+        "leaflets"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/11-ecommerce-industry.jpg",
+        "alt": "E-commerce — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Packed dimensions rather than bare product dimensions; Closure, inserts and packing sequence; Print artwork and delivery destination. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 6,
+      "seo": {
+        "title": "E-commerce Packaging & Printing",
+        "description": "Mailers, shipping cartons and customer presentation from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    },
+    {
+      "slug": "home-appliances",
+      "name": "Home Appliances",
+      "summary": "Outer cartons and supporting product information",
+      "description": "Home appliances appear in the company’s published sector and client information. Carton dimensions should be specified against the fully protected product, including any cushioning and accessories. Include product orientation, stacking and handling requirements in the enquiry. Instruction leaflets and product catalogues can be reviewed as separate print items.",
+      "requirements": [
+        "Protected product dimensions and weight",
+        "Accessory and inner-pack arrangement",
+        "Handling marks and documentation"
+      ],
+      "considerations": [
+        "Specify your required drop, stacking or transport checks for confirmation.",
+        "Published capacity and tolerance figures remain subject to company verification."
+      ],
+      "productSlugs": [
+        "corrugated-boxes",
+        "catalogues",
+        "leaflets"
+      ],
+      "image": {
+        "src": "/assets/paras_print_industry/09-home-appliance.jpg",
+        "alt": "Home Appliances — illustrative industry visual",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "faqs": [
+        {
+          "question": "What should I include in an enquiry?",
+          "answer": "Protected product dimensions and weight; Accessory and inner-pack arrangement; Handling marks and documentation. Attach approved drawings or artwork where available.",
+          "category": "General"
+        },
+        {
+          "question": "How is the final specification confirmed?",
+          "answer": "Request a review of material, dimensions, artwork, quantity and delivery requirements. Project-specific quality and compliance requirements must be agreed in writing.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "order": 7,
+      "seo": {
+        "title": "Home Appliances Packaging & Printing",
+        "description": "Outer cartons and supporting product information from Paras Prints Solutions. Discuss dimensions, material, artwork and quantity with the Ghaziabad team."
+      }
+    }
+  ],
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Packaging that works. Print that stands out.",
+      "eyebrow": "PACKAGING & COMMERCIAL PRINT · SINCE 1996",
+      "lead": "Custom corrugated boxes, printed cartons, paper bags and commercial print. One conversation, from your first specification to your finished packaging.",
+      "status": "published",
+      "seo": {
+        "title": "Packaging that works. Print that stands out.",
+        "description": "Custom corrugated boxes, printed cartons, paper bags and commercial print. One conversation, from your first specification to your finished packaging."
+      }
+    },
+    {
+      "slug": "about",
+      "title": "Built around your product. Since 1996.",
+      "eyebrow": "ABOUT PARAS PRINTS",
+      "lead": "Paras Prints Solutions brings packaging and commercial printing together for businesses in Ghaziabad, Delhi-NCR and across India.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Since 1996, Paras Prints Solutions has gained immense expertise in manufacturing Corrugated boxes, Duplex boxes, Gift Boxes, Monocartons, Paper Bags, and Corporate Print Assets. Located strategically at B-8, B.S. Road Industrial Area, Ghaziabad (UP), we are recognized as one of the preeminent packaging manufacturers across North India."
+        },
+        {
+          "type": "heading",
+          "text": "From the first brief to the finished pack"
+        },
+        {
+          "type": "paragraph",
+          "text": "The published company portfolio brings together corrugation, offset printing, die cutting, folding and finishing. Customers can discuss structural packaging alongside the print that communicates their brand."
+        },
+        {
+          "type": "heading",
+          "text": "A practical approach to every requirement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with the product, its journey and the information it needs to carry. Material, format, artwork and production requirements can then be reviewed together. Final specifications, quantities and schedules are confirmed by the team."
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Since 1996",
+          "text": "Company history as published in the source profile."
+        },
+        {
+          "title": "Packaging + print",
+          "text": "Corrugated cartons, monocartons, bags and commercial literature."
+        },
+        {
+          "title": "Ghaziabad",
+          "text": "A manufacturing business serving industrial and retail requirements."
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "Built around your product. Since 1996.",
+        "description": "Paras Prints Solutions brings packaging and commercial printing together for businesses in Ghaziabad, Delhi-NCR and across India."
+      }
+    },
+    {
+      "slug": "manufacturing-process",
+      "title": "From your brief to the finished delivery.",
+      "eyebrow": "THE MANUFACTURING PROCESS",
+      "lead": "An overview of the workflow published by Paras Prints Solutions. The exact sequence and checks are agreed for your product.",
+      "steps": [
+        {
+          "title": "Requirement & Engineering",
+          "text": "Load analysis, internal dimensions, GSM requirement, and transport stress profiling."
+        },
+        {
+          "title": "CAD Dieline & Sample",
+          "text": "Digital flatbed plotter cuts physical plain samples for physical product fitting checks."
+        },
+        {
+          "title": "Pre-Press & Litho Press",
+          "text": "Komori 6-color litho printing with inline coating and Delta-E color proof matching."
+        },
+        {
+          "title": "Fluting & Lamination",
+          "text": "Combining printed top-sheets to corrugated single facer fluting with bio-starch glue."
+        },
+        {
+          "title": "High-Tension Die Cutting",
+          "text": "Precision steel-rule die punches with matrix crease lines preventing carton cracking."
+        },
+        {
+          "title": "Automated Gluing & Stitch",
+          "text": "Vijaya lock-bottom gluing lines and industrial wire stitching for rigid corner seals."
+        },
+        {
+          "title": "Laboratory Metrology",
+          "text": "Digital Bursting Strength (BS), GSM analytical balance, and moisture testing."
+        },
+        {
+          "title": "Dispatch & JIT Delivery",
+          "text": "Strapped palletizing, shrink-wrapped moisture barrier, and scheduled fleet delivery."
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A clear requirement, approved dimensions and controlled artwork provide the basis for production. Ask the team to confirm the sampling, production and inspection steps relevant to your order."
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "From your brief to the finished delivery.",
+        "description": "An overview of the workflow published by Paras Prints Solutions. The exact sequence and checks are agreed for your product."
+      }
+    },
+    {
+      "slug": "infrastructure",
+      "title": "Packaging and print, brought together.",
+      "eyebrow": "INFRASTRUCTURE",
+      "lead": "The published company profile describes corrugation, offset printing, conversion and finishing equipment. Explore the supplied machinery pages below.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Machinery photographs reproduced in the supplied company profile are shown as document pages. Decorative facility artwork is kept in the gallery with an illustrative label, rather than presented as a verified factory photograph."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can I see the machinery setup?",
+          "answer": "The company profile contains machinery pages reproduced below. Contact the team for current photographs or an arranged visit.",
+          "category": "General"
+        },
+        {
+          "question": "What production capacity is available?",
+          "answer": "The source publishes conflicting facility sizes and numerical capacity claims. Ask the team to confirm capacity and scheduling for your particular requirement.",
+          "category": "General"
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "Packaging and print, brought together.",
+        "description": "The published company profile describes corrugation, offset printing, conversion and finishing equipment. Explore the supplied machinery pages below."
+      }
+    },
+    {
+      "slug": "quality-assurance",
+      "title": "The details make the difference.",
+      "eyebrow": "QUALITY ASSURANCE",
+      "lead": "Review material, printing, dimensions and finishing against the approved specification. Project-specific inspection requirements should be agreed before production.",
+      "highlights": [
+        {
+          "title": "Material",
+          "text": "Confirm the specified paper or board and relevant incoming-material checks."
+        },
+        {
+          "title": "Print",
+          "text": "Review approved artwork, registration and colour requirements."
+        },
+        {
+          "title": "Dimensions",
+          "text": "Check structural fit, crease positions and packing arrangement."
+        },
+        {
+          "title": "Finishing",
+          "text": "Review fold, bond, binding or surface finish as applicable."
+        },
+        {
+          "title": "Final inspection",
+          "text": "Agree packing, identification and dispatch checks for the order."
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The published profile includes laboratory equipment. Specific numerical tolerances, test performance and certification status require current documentation from the company. No certification badge is displayed without a verified certificate."
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "The details make the difference.",
+        "description": "Review material, printing, dimensions and finishing against the approved specification. Project-specific inspection requirements should be agreed before pr"
+      }
+    },
+    {
+      "slug": "faq",
+      "title": "A clearer brief. A better starting point.",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "lead": "Practical answers to help you prepare a packaging or commercial printing enquiry. Order-specific options and policies are confirmed by the team.",
+      "faqs": [
+        {
+          "question": "Can packaging be customised?",
+          "answer": "The published portfolio includes corrugated boxes, duplex monocartons and paper bags. Share your product, dimensions, artwork and intended use so the team can confirm a suitable configuration.",
+          "category": "Customisation"
+        },
+        {
+          "question": "What is the minimum order quantity?",
+          "answer": "A single verified minimum order quantity is not available. Include your required quantity in your enquiry; the team will confirm production suitability and pricing.",
+          "category": "Orders"
+        },
+        {
+          "question": "What should I include in a quotation request?",
+          "answer": "Send the product category, quantity, dimensions with units, material preferences, printing and finishing requirements, delivery city and artwork if available.",
+          "category": "Quotation"
+        },
+        {
+          "question": "Which printing options are listed?",
+          "answer": "The published product information describes offset printing for commercial print and printed packaging. The exact colour, paper and finishing combination will be confirmed for your job.",
+          "category": "Printing"
+        },
+        {
+          "question": "Can I request a material recommendation?",
+          "answer": "Yes. Describe the product weight, packing method, handling and storage conditions in your enquiry. Ask the team to recommend the board or paper rather than choosing solely on appearance.",
+          "category": "Materials"
+        },
+        {
+          "question": "Does the calculator give a final selling price?",
+          "answer": "No approved rate card has been supplied. The calculator records your specifications for a reviewed quotation and does not invent a price.",
+          "category": "Calculator"
+        },
+        {
+          "question": "When will my order be delivered?",
+          "answer": "Delivery depends on the approved specification, artwork, quantity and destination. Ask the team to confirm a schedule in your written quotation.",
+          "category": "Delivery"
+        },
+        {
+          "question": "How can I share artwork?",
+          "answer": "Attach up to three JPG, PNG or PDF files, each no larger than 10 MB, to a quotation request. These are website upload limits, not manufacturing specifications.",
+          "category": "Artwork"
+        },
+        {
+          "question": "Can I visit the facility?",
+          "answer": "Contact the team before travelling to confirm the current visit address and appointment availability. The source site publishes conflicting location details.",
+          "category": "Manufacturing"
+        },
+        {
+          "question": "Are company certificates available to download?",
+          "answer": "Verified certificate copies were not supplied. Ask the company for current documentation relevant to your requirement.",
+          "category": "Quality"
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "A clearer brief. A better starting point.",
+        "description": "Practical answers to help you prepare a packaging or commercial printing enquiry. Order-specific options and policies are confirmed by the team."
+      }
+    },
+    {
+      "slug": "privacy-policy",
+      "title": "Privacy policy",
+      "eyebrow": "YOUR INFORMATION",
+      "lead": "How information submitted through this website is handled.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Information you provide"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact, quotation and calculator forms collect your name, email, phone number and the business or project information you choose to share. Quotation attachments may contain artwork or reference material. Avoid uploading personal documents or information unrelated to your enquiry."
+        },
+        {
+          "type": "heading",
+          "text": "How information is used"
+        },
+        {
+          "type": "paragraph",
+          "text": "Submitted information is stored to review your requirement, prepare a quotation and respond to you. Automated acknowledgement and internal notification emails may be sent when email delivery is configured. Submitting a form does not place an order."
+        },
+        {
+          "type": "heading",
+          "text": "Storage and service providers"
+        },
+        {
+          "type": "paragraph",
+          "text": "The application uses a database for submissions and restricted file storage for attachments. Hosting, database, file storage and email providers may process information for these purposes. Access to private submissions and attachments is restricted to authorised integrations."
+        },
+        {
+          "type": "heading",
+          "text": "Retention and requests"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact info@parasprints.com to ask about access, correction or deletion of information you have submitted. The company must confirm its retention schedule and any recordkeeping obligations. No fixed retention period is asserted here."
+        },
+        {
+          "type": "heading",
+          "text": "Cookies and analytics"
+        },
+        {
+          "type": "paragraph",
+          "text": "The calculator uses session storage on your device to retain your specifications during navigation. Essential form and upload interactions do not require advertising cookies. Optional analytics runs only after you choose to allow it, when configured. You can revisit your choice using the Analytics preferences link in the footer."
+        },
+        {
+          "type": "heading",
+          "text": "Policy review"
+        },
+        {
+          "type": "paragraph",
+          "text": "This policy describes the implemented website data flows. The company should review its legal identity, provider arrangements and retention practices before a public launch."
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "Privacy policy",
+        "description": "How information submitted through this website is handled."
+      }
+    },
+    {
+      "slug": "terms-and-conditions",
+      "title": "Terms and conditions",
+      "eyebrow": "WEBSITE TERMS",
+      "lead": "Information for enquiries, quotation requests and use of the website.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Information and quotations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Website content introduces the published product range. Images may be illustrative and exact options are subject to confirmation. A form submission or calculator result is a request for review, not an accepted order, price commitment or delivery guarantee."
+        },
+        {
+          "type": "heading",
+          "text": "Specifications and approval"
+        },
+        {
+          "type": "paragraph",
+          "text": "Confirm dimensions, material, quantity, print artwork, finishing, quality requirements and delivery arrangements in a written quotation. Customers are responsible for supplying artwork and content they have permission to use and for approving project-specific requirements."
+        },
+        {
+          "type": "heading",
+          "text": "Uploads and acceptable use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only upload relevant reference files that you are authorised to share. Do not submit unlawful material, malicious files or third-party personal information. Upload type and size limits apply."
+        },
+        {
+          "type": "heading",
+          "text": "Content and external services"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not reproduce company documents or brand materials without permission. External links such as WhatsApp and maps are operated by their respective providers."
+        },
+        {
+          "type": "heading",
+          "text": "Business terms"
+        },
+        {
+          "type": "paragraph",
+          "text": "Payment, cancellation, returns, warranties and dispute arrangements must be provided and agreed by the company in its order documents. They are not invented by this website. Contact info@parasprints.com for current business terms."
+        },
+        {
+          "type": "paragraph",
+          "text": "These website terms require business and legal review before public launch and do not claim compliance with any particular legal regime."
+        }
+      ],
+      "status": "published",
+      "seo": {
+        "title": "Terms and conditions",
+        "description": "Information for enquiries, quotation requests and use of the website."
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "preparing-a-packaging-quotation-brief",
+      "title": "How to prepare a packaging quotation brief",
+      "excerpt": "A useful checklist for sharing dimensions, quantity, artwork and delivery requirements.",
+      "category": "Packaging briefs",
+      "featuredImage": {
+        "src": "/assets/corrugated-boxes-enterprise.jpg",
+        "alt": "Heavy-duty corrugated shipping boxes",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "author": "Editorial guide",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "status": "published",
+      "tags": [
+        "Packaging briefs"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Start with the packed product"
+        },
+        {
+          "type": "paragraph",
+          "text": "Measure the product as it will be packed, including inserts, cushioning and accessories. Record length, width and height with a clear unit. State whether dimensions describe the inside of the carton or the finished outer pack."
+        },
+        {
+          "type": "heading",
+          "text": "Explain the journey"
+        },
+        {
+          "type": "paragraph",
+          "text": "Describe how goods will be stored, handled and delivered. Include the packed weight, the number of items per carton and the proposed closure. Ask the manufacturer which samples or checks are appropriate."
+        },
+        {
+          "type": "heading",
+          "text": "Separate structure from artwork"
+        },
+        {
+          "type": "paragraph",
+          "text": "Share a structural reference alongside the latest artwork. Identify colours, print positions and finishes you would like reviewed. Flag anything that is still a preference rather than an approved specification."
+        },
+        {
+          "type": "heading",
+          "text": "Make the commercial brief complete"
+        },
+        {
+          "type": "paragraph",
+          "text": "Include quantity, delivery city and the date you would like to discuss. Ask for minimum order requirements, pricing, lead time and sample approval to be confirmed in writing."
+        }
+      ],
+      "seo": {
+        "title": "How to prepare a packaging quotation brief",
+        "description": "A useful checklist for sharing dimensions, quantity, artwork and delivery requirements."
+      }
+    },
+    {
+      "slug": "planning-brochures-and-catalogues",
+      "title": "Brochure or catalogue? Plan the print brief first.",
+      "excerpt": "Organise your content, page count, paper preferences and binding requirements before requesting a quote.",
+      "category": "Commercial print",
+      "featuredImage": {
+        "src": "/assets/catalogues-enterprise.jpg",
+        "alt": "Multi-page product catalogues",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "author": "Editorial guide",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "status": "published",
+      "tags": [
+        "Commercial print"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Give the document a job"
+        },
+        {
+          "type": "paragraph",
+          "text": "Decide whether the piece introduces a business, supports a sales conversation or documents a product range. Use that purpose to plan a reading order and an approximate amount of content."
+        },
+        {
+          "type": "heading",
+          "text": "Plan pages and panels"
+        },
+        {
+          "type": "paragraph",
+          "text": "For a folded brochure, describe the flat size and finished size. For a catalogue, provide the page count including the cover and identify whether it uses a separate stock. Ask the printer to confirm fold and binding suitability."
+        },
+        {
+          "type": "heading",
+          "text": "Prepare the production information"
+        },
+        {
+          "type": "paragraph",
+          "text": "Include finished size, quantity, artwork status, paper preferences and proposed finishes. Ask for a proof and approval process rather than assuming every finish suits every paper."
+        },
+        {
+          "type": "heading",
+          "text": "Review before release"
+        },
+        {
+          "type": "paragraph",
+          "text": "Check product names, contact information, image permissions and final text. Mark the approved artwork version clearly so the quotation and production discussion refer to the same document."
+        }
+      ],
+      "seo": {
+        "title": "Brochure or catalogue? Plan the print brief first.",
+        "description": "Organise your content, page count, paper preferences and binding requirements before requesting a quote."
+      }
+    },
+    {
+      "slug": "ecommerce-packaging-planning",
+      "title": "Plan an e-commerce pack around the whole journey.",
+      "excerpt": "Questions to consider when briefing a mailer, shipping carton or branded product insert.",
+      "category": "Packaging briefs",
+      "featuredImage": {
+        "src": "/assets/hero-product-showcase.jpg",
+        "alt": "Printed packaging showcase",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "author": "Editorial guide",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "status": "published",
+      "tags": [
+        "Packaging briefs"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Consider the packing sequence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Describe how the product is placed, protected, closed and identified. Include accessories and printed inserts in your dimensions rather than considering the bare product alone."
+        },
+        {
+          "type": "heading",
+          "text": "Discuss handling and presentation together"
+        },
+        {
+          "type": "paragraph",
+          "text": "Share the intended shipping method and the presentation you want the recipient to see. Ask the manufacturer to review the structure, material and print requirements as one specification."
+        },
+        {
+          "type": "heading",
+          "text": "Use a sample to ask better questions"
+        },
+        {
+          "type": "paragraph",
+          "text": "A physical sample can support a discussion about fit, closure and packing. Agree any transport or performance checks with the company for the actual product; a picture cannot establish performance."
+        },
+        {
+          "type": "heading",
+          "text": "Confirm the order-specific details"
+        },
+        {
+          "type": "paragraph",
+          "text": "Request written confirmation of quantity, board, artwork, production schedule and delivery arrangements. Avoid treating a general product description as a final specification."
+        }
+      ],
+      "seo": {
+        "title": "Plan an e-commerce pack around the whole journey.",
+        "description": "Questions to consider when briefing a mailer, shipping carton or branded product insert."
+      }
+    }
+  ],
+  "caseStudies": [],
+  "clients": [
+    {
+      "name": "Sturlite Electric Pvt. Ltd.",
+      "sector": "Electrical & Lighting",
+      "slug": "client-1",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 0
+    },
+    {
+      "name": "Adsun Lighting",
+      "sector": "LED Consumer Goods",
+      "slug": "client-2",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 1
+    },
+    {
+      "name": "Modern Transformers",
+      "sector": "Heavy Power Equipment",
+      "slug": "client-3",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 2
+    },
+    {
+      "name": "Billtech Electricals",
+      "sector": "Switchgear & Wiring",
+      "slug": "client-4",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 3
+    },
+    {
+      "name": "Cervo Electrical & Lighting",
+      "sector": "Architectural Lights",
+      "slug": "client-5",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 4
+    },
+    {
+      "name": "M.K. Electronics",
+      "sector": "Consumer Electronics",
+      "slug": "client-6",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 5
+    },
+    {
+      "name": "Fido Electricals",
+      "sector": "Power Distribution",
+      "slug": "client-7",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 6
+    },
+    {
+      "name": "Oushi Lighting Pvt. Ltd.",
+      "sector": "Commercial Fixtures",
+      "slug": "client-8",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 7
+    },
+    {
+      "name": "Glow Green Energy Ltd.",
+      "sector": "Renewables & Solar",
+      "slug": "client-9",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 8
+    },
+    {
+      "name": "Miio Energy Private Limited",
+      "sector": "Energy Storage",
+      "slug": "client-10",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 9
+    },
+    {
+      "name": "Bansal Moulders Pvt. Ltd.",
+      "sector": "Polymer Tooling",
+      "slug": "client-11",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 10
+    },
+    {
+      "name": "SMD LED & EMS Pvt. Ltd.",
+      "sector": "Surface Mount & EMS",
+      "slug": "client-12",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 11
+    },
+    {
+      "name": "S.V. Electronics",
+      "sector": "Component Packaging",
+      "slug": "client-13",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 12
+    },
+    {
+      "name": "Victor LED Lights",
+      "sector": "Industrial Luminaires",
+      "slug": "client-14",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 13
+    },
+    {
+      "name": "Vistas Electricals LLP",
+      "sector": "Circuit Controls",
+      "slug": "client-15",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 14
+    },
+    {
+      "name": "Ledure Lightings Ltd.",
+      "sector": "Smart LED Fixtures",
+      "slug": "client-16",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 15
+    },
+    {
+      "name": "Vishesh Packaging",
+      "sector": "Allied Packaging",
+      "slug": "client-17",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 16
+    },
+    {
+      "name": "Mysore Home Appliances",
+      "sector": "White Goods & Kitchen",
+      "slug": "client-18",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 17
+    },
+    {
+      "name": "LG Gain (Coimbatore)",
+      "sector": "South Hub Logistics",
+      "slug": "client-19",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 18
+    },
+    {
+      "name": "Switchify Electric Pvt. Ltd.",
+      "sector": "Modular Switchgear",
+      "slug": "client-20",
+      "status": "published",
+      "permissionConfirmed": false,
+      "order": 19
+    }
+  ],
+  "testimonials": [
+    {
+      "slug": "testimonial-1",
+      "name": "Rajesh Kulkarni",
+      "quote": "Paras Prints re-engineered our 5-ply export master cartons using high Bursting Factor kraft liners. Transit breakage across our nationwide logistics dropped to virtually zero, and the enhanced stack compression strength allowed us to increase warehouse pallet stacking safely.",
+      "role": "VP Supply Chain & Logistics • Appliance & Electrical OEM",
+      "status": "draft",
+      "permissionConfirmed": false
+    },
+    {
+      "slug": "testimonial-2",
+      "name": "Amit Singhania",
+      "quote": "Their Komori 6-colour UV press and computerized die-cutting elevated our retail duplex monocartons. Spot gloss UV registration is immaculate, and folding accuracy on our high-speed automated packaging lines eliminated carton jams completely.",
+      "role": "Head of Procurement • FMCG & Personal Care Brand",
+      "status": "draft",
+      "permissionConfirmed": false
+    },
+    {
+      "slug": "testimonial-3",
+      "name": "Arun Nair",
+      "quote": "The 24-hour CAD dieline and unprinted sample box turnaround was critical for our product rollout. We tested 3 distinct flute cushion variations for our self-locking mailers within 4 days and seamlessly scaled to 150,000 units on time.",
+      "role": "Director of Operations • E-Commerce & Retail Network",
+      "status": "draft",
+      "permissionConfirmed": false
+    }
+  ],
+  "gallery": [
+    {
+      "slug": "asset-001",
+      "status": "published",
+      "title": "Brand logo",
+      "category": "Brand",
+      "image": {
+        "src": "/assets/logo.png",
+        "alt": "Brand logo",
+        "width": 1808,
+        "height": 710,
+        "kind": "brand"
+      },
+      "sourceFile": "/assets/logo.png",
+      "order": 0
+    },
+    {
+      "slug": "asset-002",
+      "status": "published",
+      "title": "Textile and apparel packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/01-textile.jpg",
+        "alt": "Textile and apparel packaging applications",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/01-textile.jpg",
+      "order": 1
+    },
+    {
+      "slug": "asset-003",
+      "status": "published",
+      "title": "Bottle and consumer product packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/02-plastic.jpg",
+        "alt": "Bottle and consumer product packaging applications",
+        "width": 600,
+        "height": 900,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/02-plastic.jpg",
+      "order": 2
+    },
+    {
+      "slug": "asset-004",
+      "status": "published",
+      "title": "Sea freight and container logistics",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/11-ecommerce.jpg",
+        "alt": "Sea freight and container logistics",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/11-ecommerce.jpg",
+      "order": 3
+    },
+    {
+      "slug": "asset-005",
+      "status": "published",
+      "title": "About Paras Prints Solutions — company profile",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/about-boxes.jpg",
+        "alt": "About Paras Prints Solutions — company profile",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/about-boxes.jpg",
+      "order": 4
+    },
+    {
+      "slug": "asset-006",
+      "status": "published",
+      "title": "Corporate brochures and folded print",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/brochures-enterprise.jpg",
+        "alt": "Corporate brochures and folded print",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/brochures-enterprise.jpg",
+      "order": 5
+    },
+    {
+      "slug": "asset-007",
+      "status": "published",
+      "title": "Multi-page product catalogues",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/catalogues-enterprise.jpg",
+        "alt": "Multi-page product catalogues",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/catalogues-enterprise.jpg",
+      "order": 6
+    },
+    {
+      "slug": "asset-008",
+      "status": "published",
+      "title": "Company profile cover",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0001.jpg",
+        "alt": "Company profile cover",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0001.jpg",
+      "order": 7
+    },
+    {
+      "slug": "asset-009",
+      "status": "published",
+      "title": "About us",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0002.jpg",
+        "alt": "About us",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0002.jpg",
+      "order": 8
+    },
+    {
+      "slug": "asset-010",
+      "status": "published",
+      "title": "Our products — introduction",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0003.jpg",
+        "alt": "Our products — introduction",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0003.jpg",
+      "order": 9
+    },
+    {
+      "slug": "asset-011",
+      "status": "published",
+      "title": "Our product portfolio",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0004.jpg",
+        "alt": "Our product portfolio",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0004.jpg",
+      "order": 10
+    },
+    {
+      "slug": "asset-012",
+      "status": "published",
+      "title": "Our precious clients — introduction",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0005.jpg",
+        "alt": "Our precious clients — introduction",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0005.jpg",
+      "order": 11
+    },
+    {
+      "slug": "asset-013",
+      "status": "published",
+      "title": "Our client list",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0006.jpg",
+        "alt": "Our client list",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0006.jpg",
+      "order": 12
+    },
+    {
+      "slug": "asset-014",
+      "status": "published",
+      "title": "Machinery setup — introduction",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0007.jpg",
+        "alt": "Machinery setup — introduction",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0007.jpg",
+      "order": 13
+    },
+    {
+      "slug": "asset-015",
+      "status": "published",
+      "title": "Machinery setup — printing and finishing",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0008.jpg",
+        "alt": "Machinery setup — printing and finishing",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0008.jpg",
+      "order": 14
+    },
+    {
+      "slug": "asset-016",
+      "status": "published",
+      "title": "Machinery setup — production equipment",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0009.jpg",
+        "alt": "Machinery setup — production equipment",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0009.jpg",
+      "order": 15
+    },
+    {
+      "slug": "asset-017",
+      "status": "published",
+      "title": "Machinery setup — corrugation equipment",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0010.jpg",
+        "alt": "Machinery setup — corrugation equipment",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0010.jpg",
+      "order": 16
+    },
+    {
+      "slug": "asset-018",
+      "status": "published",
+      "title": "Lab equipment — introduction",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0011.jpg",
+        "alt": "Lab equipment — introduction",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0011.jpg",
+      "order": 17
+    },
+    {
+      "slug": "asset-019",
+      "status": "published",
+      "title": "Laboratory testing equipment",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0012.jpg",
+        "alt": "Laboratory testing equipment",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0012.jpg",
+      "order": 18
+    },
+    {
+      "slug": "asset-020",
+      "status": "published",
+      "title": "Company profile — contact details",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/Company Profile Paras_page-0013.jpg",
+        "alt": "Company profile — contact details",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/Company Profile Paras_page-0013.jpg",
+      "order": 19
+    },
+    {
+      "slug": "asset-021",
+      "status": "published",
+      "title": "Heavy-duty corrugated shipping boxes",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/corrugated-boxes-enterprise.jpg",
+        "alt": "Heavy-duty corrugated shipping boxes",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/corrugated-boxes-enterprise.jpg",
+      "order": 20
+    },
+    {
+      "slug": "asset-022",
+      "status": "published",
+      "title": "Manufacturing capability",
+      "category": "Partnership artwork",
+      "image": {
+        "src": "/assets/dealership-icon-manufacturing.jpg",
+        "alt": "Manufacturing capability",
+        "width": 1024,
+        "height": 1024,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/dealership-icon-manufacturing.jpg",
+      "order": 21
+    },
+    {
+      "slug": "asset-023",
+      "status": "published",
+      "title": "Business growth",
+      "category": "Partnership artwork",
+      "image": {
+        "src": "/assets/dealership-icon-revenue.jpg",
+        "alt": "Business growth",
+        "width": 1024,
+        "height": 1024,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/dealership-icon-revenue.jpg",
+      "order": 22
+    },
+    {
+      "slug": "asset-024",
+      "status": "published",
+      "title": "Partner support",
+      "category": "Partnership artwork",
+      "image": {
+        "src": "/assets/dealership-icon-support.jpg",
+        "alt": "Partner support",
+        "width": 1024,
+        "height": 1024,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/dealership-icon-support.jpg",
+      "order": 23
+    },
+    {
+      "slug": "asset-025",
+      "status": "published",
+      "title": "Tailored partnerships",
+      "category": "Partnership artwork",
+      "image": {
+        "src": "/assets/dealership-icon-tailored.jpg",
+        "alt": "Tailored partnerships",
+        "width": 1024,
+        "height": 1024,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/dealership-icon-tailored.jpg",
+      "order": 24
+    },
+    {
+      "slug": "asset-026",
+      "status": "published",
+      "title": "Printed duplex monocartons",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/duplex-boxes-enterprise.jpg",
+        "alt": "Printed duplex monocartons",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/duplex-boxes-enterprise.jpg",
+      "order": 25
+    },
+    {
+      "slug": "asset-027",
+      "status": "published",
+      "title": "Packaging specifications and sample planning",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/faq-mockup.jpg",
+        "alt": "Packaging specifications and sample planning",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/faq-mockup.jpg",
+      "order": 26
+    },
+    {
+      "slug": "asset-028",
+      "status": "published",
+      "title": "Paras Prints Solutions — brochure cover",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/hero-brochure-cover.jpg",
+        "alt": "Paras Prints Solutions — brochure cover",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/hero-brochure-cover.jpg",
+      "order": 27
+    },
+    {
+      "slug": "asset-029",
+      "status": "published",
+      "title": "Printed packaging showcase",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/hero-product-showcase.jpg",
+        "alt": "Printed packaging showcase",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/hero-product-showcase.jpg",
+      "order": 28
+    },
+    {
+      "slug": "asset-030",
+      "status": "published",
+      "title": "Custom kraft and white packaging boxes",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/hero-showcase.jpg",
+        "alt": "Custom kraft and white packaging boxes",
+        "width": 1376,
+        "height": 768,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/hero-showcase.jpg",
+      "order": 29
+    },
+    {
+      "slug": "asset-031",
+      "status": "published",
+      "title": "Textile Industry — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/01-textile.jpg",
+        "alt": "Textile Industry — sector overview",
+        "width": 1264,
+        "height": 848,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/01-textile.jpg",
+      "order": 30
+    },
+    {
+      "slug": "asset-032",
+      "status": "published",
+      "title": "Plastic Industry — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/02-plastic.jpg",
+        "alt": "Plastic Industry — sector overview",
+        "width": 1264,
+        "height": 848,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/02-plastic.jpg",
+      "order": 31
+    },
+    {
+      "slug": "asset-033",
+      "status": "published",
+      "title": "Food Industry — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/03-food.jpg",
+        "alt": "Food Industry — sector overview",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/03-food.jpg",
+      "order": 32
+    },
+    {
+      "slug": "asset-034",
+      "status": "published",
+      "title": "Pharmaceuticals — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/04-pharma.jpg",
+        "alt": "Pharmaceuticals — sector overview",
+        "width": 600,
+        "height": 420,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/04-pharma.jpg",
+      "order": 33
+    },
+    {
+      "slug": "asset-035",
+      "status": "published",
+      "title": "Chemicals & Fertilizers — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/05-chemicals.jpg",
+        "alt": "Chemicals & Fertilizers — sector overview",
+        "width": 600,
+        "height": 399,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/05-chemicals.jpg",
+      "order": 34
+    },
+    {
+      "slug": "asset-036",
+      "status": "published",
+      "title": "Engineering Goods — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/06-engineering.jpg",
+        "alt": "Engineering Goods — sector overview",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/06-engineering.jpg",
+      "order": 35
+    },
+    {
+      "slug": "asset-037",
+      "status": "published",
+      "title": "Oils & Petro — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/07-oil-petro.jpg",
+        "alt": "Oils & Petro — sector overview",
+        "width": 600,
+        "height": 900,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/07-oil-petro.jpg",
+      "order": 36
+    },
+    {
+      "slug": "asset-038",
+      "status": "published",
+      "title": "Automotive Industry — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/08-automotive.jpg",
+        "alt": "Automotive Industry — sector overview",
+        "width": 600,
+        "height": 338,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/08-automotive.jpg",
+      "order": 37
+    },
+    {
+      "slug": "asset-039",
+      "status": "published",
+      "title": "Home Appliance — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/09-appliances.jpg",
+        "alt": "Home Appliance — sector overview",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/09-appliances.jpg",
+      "order": 38
+    },
+    {
+      "slug": "asset-040",
+      "status": "published",
+      "title": "Air Cargo & Logistics — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/10-air-cargo.jpg",
+        "alt": "Air Cargo & Logistics — sector overview",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/10-air-cargo.jpg",
+      "order": 39
+    },
+    {
+      "slug": "asset-041",
+      "status": "published",
+      "title": "E-Commerce Industry — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/11-ecommerce.jpg",
+        "alt": "E-Commerce Industry — sector overview",
+        "width": 1264,
+        "height": 848,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/11-ecommerce.jpg",
+      "order": 40
+    },
+    {
+      "slug": "asset-042",
+      "status": "published",
+      "title": "Manufacturing — sector overview",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/industries/12-manufacturing.jpg",
+        "alt": "Manufacturing — sector overview",
+        "width": 600,
+        "height": 400,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/industries/12-manufacturing.jpg",
+      "order": 41
+    },
+    {
+      "slug": "asset-043",
+      "status": "published",
+      "title": "Promotional leaflets and printed inserts",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/leaflets-print-showcase.jpg",
+        "alt": "Promotional leaflets and printed inserts",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/leaflets-print-showcase.jpg",
+      "order": 42
+    },
+    {
+      "slug": "asset-044",
+      "status": "published",
+      "title": "Packaging, paper bags and commercial print",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/packaging-products-group.jpg",
+        "alt": "Packaging, paper bags and commercial print",
+        "width": 512,
+        "height": 345,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/packaging-products-group.jpg",
+      "order": 43
+    },
+    {
+      "slug": "asset-045",
+      "status": "published",
+      "title": "Kraft and duplex paper bags",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/paper-bags-showcase.jpg",
+        "alt": "Kraft and duplex paper bags",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paper-bags-showcase.jpg",
+      "order": 44
+    },
+    {
+      "slug": "asset-046",
+      "status": "published",
+      "title": "Integrated printing and packaging facility",
+      "category": "Illustrative facility visuals",
+      "image": {
+        "src": "/assets/paras-plant-facility.jpg",
+        "alt": "Integrated printing and packaging facility",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras-plant-facility.jpg",
+      "order": 45
+    },
+    {
+      "slug": "asset-047",
+      "status": "published",
+      "title": "Packaging and commercial print range",
+      "category": "Product visuals",
+      "image": {
+        "src": "/assets/paras-products-collage.jpg",
+        "alt": "Packaging and commercial print range",
+        "width": 1200,
+        "height": 896,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras-products-collage.jpg",
+      "order": 46
+    },
+    {
+      "slug": "asset-048",
+      "status": "published",
+      "title": "Packaging consultation representative",
+      "category": "Partnership artwork",
+      "image": {
+        "src": "/assets/partner-engineer.jpg",
+        "alt": "Packaging consultation representative",
+        "width": 896,
+        "height": 1200,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/partner-engineer.jpg",
+      "order": 47
+    },
+    {
+      "slug": "asset-049",
+      "status": "published",
+      "title": "Precision corrugated flute stacks",
+      "category": "Illustrative facility visuals",
+      "image": {
+        "src": "/assets/precision-flute-stacks.jpg",
+        "alt": "Precision corrugated flute stacks",
+        "width": 1024,
+        "height": 1024,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/precision-flute-stacks.jpg",
+      "order": 48
+    },
+    {
+      "slug": "asset-050",
+      "status": "published",
+      "title": "Company product portfolio",
+      "category": "Company profile",
+      "image": {
+        "src": "/assets/products-showcase.jpg",
+        "alt": "Company product portfolio",
+        "width": 1241,
+        "height": 1754,
+        "kind": "document"
+      },
+      "sourceFile": "/assets/products-showcase.jpg",
+      "order": 49
+    },
+    {
+      "slug": "asset-051",
+      "status": "published",
+      "title": "Textile Industry — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/01-textile-industry.jpg",
+        "alt": "Textile Industry — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/01-textile-industry.jpg",
+      "order": 50
+    },
+    {
+      "slug": "asset-052",
+      "status": "published",
+      "title": "Plastic Industry — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/02-plastic-industry.jpg",
+        "alt": "Plastic Industry — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/02-plastic-industry.jpg",
+      "order": 51
+    },
+    {
+      "slug": "asset-053",
+      "status": "published",
+      "title": "Food Industry — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/03-food-industry.jpg",
+        "alt": "Food Industry — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/03-food-industry.jpg",
+      "order": 52
+    },
+    {
+      "slug": "asset-054",
+      "status": "published",
+      "title": "Pharmaceuticals — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/04-pharmaceuticals.jpg",
+        "alt": "Pharmaceuticals — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/04-pharmaceuticals.jpg",
+      "order": 53
+    },
+    {
+      "slug": "asset-055",
+      "status": "published",
+      "title": "Chemicals & Fertilizers — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/05-chemicals-fertilizers.jpg",
+        "alt": "Chemicals & Fertilizers — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/05-chemicals-fertilizers.jpg",
+      "order": 54
+    },
+    {
+      "slug": "asset-056",
+      "status": "published",
+      "title": "Engineering Goods — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/06-engineering-goods.jpg",
+        "alt": "Engineering Goods — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/06-engineering-goods.jpg",
+      "order": 55
+    },
+    {
+      "slug": "asset-057",
+      "status": "published",
+      "title": "Oils & Petro — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/07-oils-petro.jpg",
+        "alt": "Oils & Petro — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/07-oils-petro.jpg",
+      "order": 56
+    },
+    {
+      "slug": "asset-058",
+      "status": "published",
+      "title": "Automotive Industry — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/08-automotive-industry.jpg",
+        "alt": "Automotive Industry — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/08-automotive-industry.jpg",
+      "order": 57
+    },
+    {
+      "slug": "asset-059",
+      "status": "published",
+      "title": "Home Appliance — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/09-home-appliance.jpg",
+        "alt": "Home Appliance — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/09-home-appliance.jpg",
+      "order": 58
+    },
+    {
+      "slug": "asset-060",
+      "status": "published",
+      "title": "Air Cargo & Logistics — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/10-air-cargo-logistics.jpg",
+        "alt": "Air Cargo & Logistics — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/10-air-cargo-logistics.jpg",
+      "order": 59
+    },
+    {
+      "slug": "asset-061",
+      "status": "published",
+      "title": "E-Commerce Industry — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/11-ecommerce-industry.jpg",
+        "alt": "E-Commerce Industry — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/11-ecommerce-industry.jpg",
+      "order": 60
+    },
+    {
+      "slug": "asset-062",
+      "status": "published",
+      "title": "Manufacturing — packaging applications",
+      "category": "Industry visuals",
+      "image": {
+        "src": "/assets/paras_print_industry/12-manufacturing.jpg",
+        "alt": "Manufacturing — packaging applications",
+        "width": 1000,
+        "height": 600,
+        "kind": "illustrative"
+      },
+      "sourceFile": "/assets/paras_print_industry/12-manufacturing.jpg",
+      "order": 61
+    }
+  ],
+  "machines": [
+    {
+      "slug": "machine-1",
+      "name": "Komori Lithrone 6-Colour Offset Press",
+      "description": "Multi-colour Komori Lithrone with inline coating and Delta-E colour proof matching.",
+      "status": "published",
+      "order": 0
+    },
+    {
+      "slug": "machine-2",
+      "name": "Heidelberg Hybrid UV",
+      "description": "Hybrid UV capability for gloss/matte and spot UV effects.",
+      "status": "published",
+      "order": 1
+    },
+    {
+      "slug": "machine-3",
+      "name": "3, 5 & 7-Ply Automatic Corrugator",
+      "description": "Single-facer fluting lines with bio-starch glue application.",
+      "status": "published",
+      "order": 2
+    },
+    {
+      "slug": "machine-4",
+      "name": "Flute Laminator",
+      "description": "Combines printed top-sheets to corrugated fluting for litho-laminated cartons.",
+      "status": "published",
+      "order": 3
+    },
+    {
+      "slug": "machine-5",
+      "name": "Automated Precision Die-Cutters & Creasers",
+      "description": "Precision steel-rule die punches with matrix crease lines preventing carton cracking.",
+      "status": "published",
+      "order": 4
+    },
+    {
+      "slug": "machine-6",
+      "name": "Vijaya Lock-Bottom Folder-Gluers",
+      "description": "Automated gluing lines for rigid corner seals.",
+      "status": "published",
+      "order": 5
+    },
+    {
+      "slug": "machine-7",
+      "name": "Industrial Wire Stitchers",
+      "description": "Steel wire joint stitching for heavy-duty carton sealing.",
+      "status": "published",
+      "order": 6
+    },
+    {
+      "slug": "machine-8",
+      "name": "Digital Flatbed Plotter",
+      "description": "Cuts physical plain samples for product fitting checks within 24 hours.",
+      "status": "published",
+      "order": 7
+    },
+    {
+      "slug": "machine-9",
+      "name": "Automated Miniature Folding Machines",
+      "description": "Accordion folding for leaflets and package inserts.",
+      "status": "published",
+      "order": 8
+    },
+    {
+      "slug": "machine-10",
+      "name": "Saddle Stitch / Wire-O / PUR Perfect Binder",
+      "description": "Binding lines for catalogues up to 240+ pages.",
+      "status": "published",
+      "order": 9
+    }
+  ],
+  "settings": {
+    "additionalSectors": [
+      "Textile Industry",
+      "Plastic Industry",
+      "Chemicals & Fertilizers",
+      "Oils & Petro",
+      "Air Cargo & Logistics",
+      "Manufacturing"
+    ],
+    "company": {
+      "name": "Paras Prints Solutions",
+      "established": "1996",
+      "intro": "Custom packaging and commercial printing, bringing corrugated cartons, monocartons, paper bags and printed literature together.",
+      "address": "B-8, B.S. Road Industrial Area, Ghaziabad (UP), India",
+      "addressNote": "Please confirm the current visit and dispatch address with the team before travelling.",
+      "phone": "+91 88263 81381",
+      "phoneHref": "tel:+918826381381",
+      "email": "info@parasprints.com",
+      "emailHref": "mailto:info@parasprints.com",
+      "whatsapp": "https://wa.me/919820044123",
+      "sourceUrl": "https://parasprints-nu.vercel.app/",
+      "sourceNote": "Contact details are reproduced from the existing company website; the alternate address and dispatch line require confirmation.",
+      "socialLinks": []
+    },
+    "home": {
+      "slides": [
+        {
+          "src": "/assets/hero-product-showcase.jpg",
+          "alt": "Representative printed packaging",
+          "width": 1200,
+          "height": 896,
+          "kind": "illustrative"
+        },
+        {
+          "src": "/assets/hero-showcase.jpg",
+          "alt": "Representative custom kraft and white cartons",
+          "width": 1376,
+          "height": 768,
+          "kind": "illustrative"
+        },
+        {
+          "src": "/assets/packaging-products-group.jpg",
+          "alt": "Representative packaging and print range",
+          "width": 512,
+          "height": 345,
+          "kind": "illustrative"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Since 1996",
+          "text": "A published history in packaging and print"
+        },
+        {
+          "title": "Packaging + print",
+          "text": "From shipping cartons to product literature"
+        },
+        {
+          "title": "Made for your brief",
+          "text": "Dimensions, materials, artwork and finishing"
+        }
+      ],
+      "benefits": [
+        {
+          "title": "One brief, a considered solution",
+          "text": "Discuss the structure and the printed presentation together."
+        },
+        {
+          "title": "A specification you can review",
+          "text": "Confirm dimensions, material, artwork and intended use before production."
+        },
+        {
+          "title": "Relevant to your industry",
+          "text": "Explain how your product is packed, handled and delivered."
+        },
+        {
+          "title": "A direct conversation",
+          "text": "Bring your requirements to the Ghaziabad team for a reviewed quotation."
+        }
+      ]
+    },
+    "downloads": [
+      {
+        "title": "Company profile",
+        "description": "The 13 supplied company profile pages, combined into a PDF without altering their content. Historical details in this document should be confirmed with the company.",
+        "url": "/downloads/paras-prints-company-profile.pdf",
+        "filename": "paras-prints-company-profile.pdf",
+        "type": "PDF"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can packaging be customised?",
+        "answer": "The published portfolio includes corrugated boxes, duplex monocartons and paper bags. Share your product, dimensions, artwork and intended use so the team can confirm a suitable configuration.",
+        "category": "Customisation"
+      },
+      {
+        "question": "What is the minimum order quantity?",
+        "answer": "A single verified minimum order quantity is not available. Include your required quantity in your enquiry; the team will confirm production suitability and pricing.",
+        "category": "Orders"
+      },
+      {
+        "question": "What should I include in a quotation request?",
+        "answer": "Send the product category, quantity, dimensions with units, material preferences, printing and finishing requirements, delivery city and artwork if available.",
+        "category": "Quotation"
+      },
+      {
+        "question": "Which printing options are listed?",
+        "answer": "The published product information describes offset printing for commercial print and printed packaging. The exact colour, paper and finishing combination will be confirmed for your job.",
+        "category": "Printing"
+      },
+      {
+        "question": "Can I request a material recommendation?",
+        "answer": "Yes. Describe the product weight, packing method, handling and storage conditions in your enquiry. Ask the team to recommend the board or paper rather than choosing solely on appearance.",
+        "category": "Materials"
+      },
+      {
+        "question": "Does the calculator give a final selling price?",
+        "answer": "No approved rate card has been supplied. The calculator records your specifications for a reviewed quotation and does not invent a price.",
+        "category": "Calculator"
+      },
+      {
+        "question": "When will my order be delivered?",
+        "answer": "Delivery depends on the approved specification, artwork, quantity and destination. Ask the team to confirm a schedule in your written quotation.",
+        "category": "Delivery"
+      },
+      {
+        "question": "How can I share artwork?",
+        "answer": "Attach up to three JPG, PNG or PDF files, each no larger than 10 MB, to a quotation request. These are website upload limits, not manufacturing specifications.",
+        "category": "Artwork"
+      },
+      {
+        "question": "Can I visit the facility?",
+        "answer": "Contact the team before travelling to confirm the current visit address and appointment availability. The source site publishes conflicting location details.",
+        "category": "Manufacturing"
+      },
+      {
+        "question": "Are company certificates available to download?",
+        "answer": "Verified certificate copies were not supplied. Ask the company for current documentation relevant to your requirement.",
+        "category": "Quality"
+      }
+    ]
+  },
+  "calculator": {
+    "key": "default",
+    "products": [
+      "corrugated-boxes",
+      "duplex-boxes"
+    ],
+    "styles": [
+      {
+        "value": "rsc",
+        "label": "Regular slotted carton",
+        "products": [
+          "corrugated-boxes"
+        ]
+      },
+      {
+        "value": "mailer",
+        "label": "Self-locking mailer",
+        "products": [
+          "corrugated-boxes"
+        ]
+      },
+      {
+        "value": "monocarton",
+        "label": "Printed monocarton",
+        "products": [
+          "duplex-boxes"
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "value": "kraft",
+        "label": "Kraft corrugated board — exact grade by enquiry",
+        "products": [
+          "corrugated-boxes"
+        ]
+      },
+      {
+        "value": "duplex",
+        "label": "Duplex paperboard — exact grade by enquiry",
+        "products": [
+          "duplex-boxes"
+        ]
+      }
+    ],
+    "printing": [
+      {
+        "value": "plain",
+        "label": "Unprinted",
+        "products": [
+          "corrugated-boxes",
+          "duplex-boxes"
+        ]
+      },
+      {
+        "value": "printed",
+        "label": "Custom printed — artwork to be reviewed",
+        "products": [
+          "corrugated-boxes",
+          "duplex-boxes"
+        ]
+      }
+    ],
+    "finishing": [
+      {
+        "value": "partitions",
+        "label": "Internal partitions — discuss suitability",
+        "products": [
+          "corrugated-boxes"
+        ]
+      },
+      {
+        "value": "lamination",
+        "label": "Lamination — confirm specification",
+        "products": [
+          "duplex-boxes"
+        ]
+      },
+      {
+        "value": "foil",
+        "label": "Foil stamping — confirm artwork",
+        "products": [
+          "duplex-boxes"
+        ]
+      },
+      {
+        "value": "uv",
+        "label": "Spot UV — confirm artwork",
+        "products": [
+          "duplex-boxes"
+        ]
+      }
+    ],
+    "maxDimensionMm": 5000,
+    "maxQuantity": 10000000,
+    "pricingVerified": false,
+    "rates": {},
+    "currency": "INR",
+    "disclaimer": "Specifications are an enquiry brief, not an accepted order. Material suitability, minimum order quantity, pricing and delivery are confirmed by the company. Calculator limits are software input limits."
+  }
+}

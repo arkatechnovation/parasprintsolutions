@@ -1,0 +1,44 @@
+{
+  "name": "@paras/frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "dev:wait": "node scripts/start-web.mjs dev",
+    "lint": "eslint src",
+    "test:fallback": "node scripts/test-fallback.mjs",
+    "fallback:sync": "node scripts/sync-fallback.mjs",
+    "init-env": "node scripts/init-env.mjs",
+    "verify": "node scripts/verify-site.mjs",
+    "audit:desktop": "node scripts/audit-desktop.mjs",
+    "verify:browser": "node scripts/verify-browser.mjs",
+    "assets:profile": "node scripts/create-profile.mjs",
+    "assets:review": "node scripts/render-profile.mjs",
+    "format": "prettier --write src ../backend/src ../backend/tests scripts documentation README.md"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lucide-react": "^0.468.0",
+    "next": "16.4.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.39.4",
+    "@napi-rs/canvas": "^1.1.1",
+    "eslint": "9.39.4",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^16.5.0",
+    "lighthouse": "13.5.0",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^6.5.438",
+    "prettier": "^3.6.2"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

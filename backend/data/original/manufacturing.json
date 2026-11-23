@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "eyebrow": "24/7 Production Plant",
+    "title": "Integrated Manufacturing Facility",
+    "subtitle": "Ghaziabad Industrial Area • 120,000 Sq. Ft",
+    "badge": "ISO 9001:2015",
+    "image": "/assets/paras-plant-facility.jpg",
+    "alt": "Paras Prints integrated corrugation and offset printing plant, Ghaziabad"
+  },
+  "intro": "Unlike generalist packaging converters, Paras Prints Solutions operates fully integrated corrugated manufacturing lines and high-speed multi-colour Komori offset presses under one roof in Ghaziabad. From heavy-duty 3/5/7-ply master shippers to precision monocartons, our die-cut tooling delivers exact dimensional stability for high-speed automated packaging lines.",
+  "processHeading": "From Raw Board to Finished Delivery:",
+  "processTitle": "Our 8-Stage Process",
+  "processIntro": "Strict quality gatechecks at every step ensure zero defective carton escapes and perfect compliance with client mechanical drawings.",
+  "processBadges": ["NABL Accredited Facility", "Zero Defect SQA"],
+  "process": [
+    { "step": "01", "title": "Requirement & Engineering", "body": "Load analysis, internal dimensions, GSM requirement, and transport stress profiling." },
+    { "step": "02", "title": "CAD Dieline & Sample", "body": "Digital flatbed plotter cuts physical plain samples for physical product fitting checks." },
+    { "step": "03", "title": "Pre-Press & Litho Press", "body": "Komori 6-color litho printing with inline coating and Delta-E color proof matching." },
+    { "step": "04", "title": "Fluting & Lamination", "body": "Combining printed top-sheets to corrugated single facer fluting with bio-starch glue." },
+    { "step": "05", "title": "High-Tension Die Cutting", "body": "Precision steel-rule die punches with matrix crease lines preventing carton cracking." },
+    { "step": "06", "title": "Automated Gluing & Stitch", "body": "Vijaya lock-bottom gluing lines and industrial wire stitching for rigid corner seals." },
+    { "step": "07", "title": "Laboratory Metrology", "body": "Digital Bursting Strength (BS), GSM analytical balance, and moisture testing." },
+    { "step": "08", "title": "Dispatch & JIT Delivery", "body": "Strapped palletizing, shrink-wrapped moisture barrier, and scheduled fleet delivery." }
+  ],
+  "machinery": [
+    { "name": "Komori Lithrone 6-Colour Offset Press", "detail": "Multi-colour Komori Lithrone with inline coating and Delta-E colour proof matching." },
+    { "name": "Heidelberg Hybrid UV", "detail": "Hybrid UV capability for gloss/matte and spot UV effects." },
+    { "name": "3, 5 & 7-Ply Automatic Corrugator", "detail": "Single-facer fluting lines with bio-starch glue application." },
+    { "name": "Flute Laminator", "detail": "Combines printed top-sheets to corrugated fluting for litho-laminated cartons." },
+    { "name": "Automated Precision Die-Cutters & Creasers", "detail": "Precision steel-rule die punches with matrix crease lines preventing carton cracking." },
+    { "name": "Vijaya Lock-Bottom Folder-Gluers", "detail": "Automated gluing lines for rigid corner seals." },
+    { "name": "Industrial Wire Stitchers", "detail": "Steel wire joint stitching for heavy-duty carton sealing." },
+    { "name": "Digital Flatbed Plotter", "detail": "Cuts physical plain samples for product fitting checks within 24 hours." },
+    { "name": "Automated Miniature Folding Machines", "detail": "Accordion folding for leaflets and package inserts." },
+    { "name": "Saddle Stitch / Wire-O / PUR Perfect Binder", "detail": "Binding lines for catalogues up to 240+ pages." }
+  ],
+  "infrastructure": [
+    "End-to-end design and pre-press",
+    "High-speed 6-colour offset printing",
+    "Automated corrugation",
+    "Flute laminating",
+    "Platen die cutting",
+    "Computerized quality testing",
+    "Vendor-Managed Inventory (VMI) buffer stock",
+    "Strapped palletizing and shrink-wrapped dispatch"
+  ],
+  "cadPromise": {
+    "title": "Need Customized Dielines for Your Industry Sector?",
+    "body": "We provide 24-hour CAD technical drawings and free unprinted physical sample kits across India.",
+    "cta": "Calculate Specs"
+  }
+}

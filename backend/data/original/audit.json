@@ -1,0 +1,116 @@
+{
+  "auditedUrl": "https://parasprints-nu.vercel.app/",
+  "auditDate": "2026-11-17",
+  "sourceArchitecture": {
+    "framework": "Static single-page HTML site (no SPA framework detected)",
+    "styling": "Tailwind CSS via CDN script tag",
+    "animation": "GSAP 3.12.5 + ScrollTrigger via cdnjs",
+    "icons": "Google Material Symbols Outlined",
+    "fonts": "Mulish (variable) + JetBrains Mono via Google Fonts",
+    "includes": "includes/include.js (obfuscated) dynamically injects includes/header.html and includes/footer.html",
+    "hosting": "Vercel (static deployment)",
+    "routing": "Single route: / (index.html). All navigation is in-page anchors: #about, #product-matrix, #gallery, #contact, #quote-calculator, #blog"
+  },
+  "routes": [
+    { "path": "/", "status": "200", "type": "homepage", "notes": "Only real page. Contains hero slider, why-choose, about, product matrix, 8-stage process, clients, advantages, industries, calculator, plant stats, testimonials, sample request form, contact modal, quotation modal." },
+    { "path": "/robots.txt", "status": "404", "notes": "Not present on source site" },
+    { "path": "/sitemap.xml", "status": "404", "notes": "Not present on source site" },
+    { "path": "/about", "status": "404", "notes": "Anchor #about on homepage only" },
+    { "path": "/products", "status": "404", "notes": "Anchor #product-matrix on homepage only" },
+    { "path": "/contact", "status": "404", "notes": "Anchor #contact + modal on homepage only" },
+    { "path": "/gallery", "status": "404", "notes": "Nav link points to index.html#gallery - target section does not exist in the rendered markup (dead anchor)" },
+    { "path": "/blog", "status": "404", "notes": "Footer/nav link points to index.html#blog - target section does not exist (dead anchor); no blog content published" },
+    { "path": "/includes/header.html", "status": "308 -> /includes/header", "notes": "Static header partial (mega menu, mobile drawer, command-K product search)" },
+    { "path": "/includes/footer.html", "status": "308 -> /includes/footer", "notes": "Static footer partial" },
+    { "path": "/logo.png", "status": "200", "notes": "Brand logo, 1808 x 710 PNG with transparency" }
+  ],
+  "functionality": [
+    { "feature": "Sticky header with mega dropdown menu (3 product columns)", "status": "Working (hover-only, CSS group-hover)", "rebuild": "Keyboard-accessible click/hover dropdown with focus states" },
+    { "feature": "Mobile hamburger drawer navigation", "status": "Working", "rebuild": "Preserved with product accordion" },
+    { "feature": "Command-K / search icon product search (client-side index)", "status": "Working via obfuscated include.js", "rebuild": "Rebuilt on the same 9-product index with real search tags" },
+    { "feature": "Hero slider (3 slides, prev/next + dots, autoplay)", "status": "Working via GSAP", "rebuild": "Rebuilt with CSS transitions, reduced-motion safe, no GSAP dependency" },
+    { "feature": "Corrugated box production & pricing estimator (5 selectors + 6 finish toggles + volume range)", "status": "Working", "rebuild": "Preserved calculation logic 1:1 (see calculator.json)" },
+    { "feature": "Sample box request form (48-hour sample)", "status": "Front-end only - shows success panel, no backend", "rebuild": "Connected to PostgreSQL via /api/inquiries" },
+    { "feature": "Contact modal form (Get in touch)", "status": "Front-end only", "rebuild": "Connected to PostgreSQL via /api/inquiries" },
+    { "feature": "Corrugated quote modal (formal quotation with calculator snapshot)", "status": "Front-end only", "rebuild": "Connected to PostgreSQL via /api/quotes with calculator snapshot" },
+    { "feature": "WhatsApp deep link", "status": "Working (wa.me/919820044123)", "rebuild": "Preserved" },
+    { "feature": "Click-to-call and mailto links", "status": "Working", "rebuild": "Preserved" },
+    { "feature": "GSAP scroll reveal + counters", "status": "Working", "rebuild": "IntersectionObserver reveals + animated counters, prefers-reduced-motion respected" },
+    { "feature": "Google Maps embed", "status": "Not present", "rebuild": "Added on Contact page using the published Ghaziabad plant address" }
+  ],
+  "discrepancies": [
+    {
+      "id": "D1",
+      "topic": "Plant / facility area",
+      "values": [
+        "\"35,000+ sq. ft. Ghaziabad plant\" - Core Manufacturing Portfolio section",
+        "\"120,000 Sq. Ft\" - Integrated Manufacturing Facility stat block and \"120K Sq. Ft Facility\" stat card"
+      ],
+      "resolution": "Both figures preserved verbatim in the contexts in which they originally appeared. FLAG FOR VERIFICATION with the client - only one can be correct."
+    },
+    {
+      "id": "D2",
+      "topic": "Plant address",
+      "values": [
+        "\"B-8, B.S. Road Industrial Area, Ghaziabad (UP)\" - top bar, About section",
+        "\"Plot 48-A, Industrial Area, Ghaziabad / Delhi-NCR Corridor, India\" - footer and consultation section"
+      ],
+      "resolution": "Primary plant address displayed as B-8, B.S. Road Industrial Area (used in the top bar and About, i.e. the most prominent placements); the Plot 48-A line is retained verbatim on the Contact page and footer. FLAG FOR VERIFICATION."
+    },
+    {
+      "id": "D3",
+      "topic": "Client count",
+      "values": [
+        "\"Trusted by 50+ Industry Giants Across India\" - clients section heading",
+        "\"Supplying over 35 enterprise brands continuously for 10+ consecutive fiscal years\"",
+        "19 named clients actually published"
+      ],
+      "resolution": "All three statements retained verbatim in their original positions. No new client names invented. FLAG FOR VERIFICATION."
+    },
+    {
+      "id": "D4",
+      "topic": "Certification claims",
+      "values": [
+        "\"ISO 9001:2015\" - repeated across quality and plant sections",
+        "\"NABL Accredited Facility\" - quality section badge",
+        "\"BF / BS Lab Certified\" - hero badge"
+      ],
+      "resolution": "Retained verbatim, but NABL accreditation and ISO 9001:2015 certificate numbers are not published. FLAG FOR VERIFICATION - no certificate numbers have been invented."
+    },
+    {
+      "id": "D5",
+      "topic": "Dead navigation anchors",
+      "values": [
+        "index.html#gallery - no element with id=\"gallery\" exists",
+        "index.html#blog - no element with id=\"blog\" exists and no blog content is published"
+      ],
+      "resolution": "Gallery rebuilt as a real page using the site's own published photography. Blog omitted - no blog content exists to migrate and fabricating posts would breach data-accuracy rules."
+    },
+    {
+      "id": "D6",
+      "topic": "Forms have no backend",
+      "values": ["Sample request, contact and quote forms only toggle a success panel client-side; no data is transmitted anywhere"],
+      "resolution": "Rebuilt with a real PostgreSQL backend (inquiries + quote_requests tables) while keeping the original field labels, options and success copy."
+    },
+    {
+      "id": "D7",
+      "topic": "Testimonials",
+      "values": ["Three testimonials with named individuals and generic company descriptors (Appliance & Electrical OEM, FMCG & Personal Care Brand, E-Commerce & Retail Network) - no company names published"],
+      "resolution": "Reproduced verbatim. Attribution retained exactly as published; unverified and flagged."
+    },
+    {
+      "id": "D8",
+      "topic": "Calculator static defaults",
+      "values": ["The server-rendered markup shows Rs.18.40 / Rs.4,60,000 before JavaScript runs; the live calculation for the default selection (5-ply BC, RSC, medium, virgin kraft, 25,000 units) yields a different value"],
+      "resolution": "Calculator always computes values from the extracted logic at runtime, so the displayed figures are always internally consistent."
+    }
+  ],
+  "notFound": [
+    "FAQ section (none published - none invented)",
+    "Mission / vision statements (none published - none invented)",
+    "Client logo image files (none published - clients rendered as text cards)",
+    "Blog articles (no content published)",
+    "ISO / NABL certificate numbers or copies",
+    "Google Maps embed"
+  ]
+}

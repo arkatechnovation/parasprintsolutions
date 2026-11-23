@@ -1,0 +1,26 @@
+{
+  "headline": "Start Engineering Your Custom Corrugated & Print Packaging",
+  "headlineCta": "REQUEST A QUOTE",
+  "intro": "PARAS PRINTS SOLUTIONS delivers high-performance corrugated boxes, luxury monocartons, and commercial print engineering for India's leading industrial and consumer brands.",
+  "introCta": "BECOME A PARTNER",
+  "quickLinks": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Contact Us", "href": "/contact" },
+    { "label": "Products", "href": "/products" },
+    { "label": "Gallery", "href": "/gallery" }
+  ],
+  "productLinks": [
+    { "label": "Corrugated Boxes (3/5/7-Ply)", "href": "/products/corrugated-boxes" },
+    { "label": "Duplex Boxes & Monocartons", "href": "/products/duplex-boxes-monocartons" },
+    { "label": "Paper Bags (Kraft & Duplex)", "href": "/products/paper-bags" },
+    { "label": "Brochures & Catalogues", "href": "/products/brochures" },
+    { "label": "Writing Pads & Leaflets", "href": "/products/writing-pads" },
+    { "label": "Digital Print & BOPP Tapes", "href": "/products/digital-print" }
+  ],
+  "legalLinks": [
+    { "label": "Terms & Conditions", "href": "/legal#terms" },
+    { "label": "Privacy Policy", "href": "/legal#privacy" }
+  ],
+  "copyright": "PARAS PRINTS SOLUTIONS Curated By Precision Engineering ©2026"
+}

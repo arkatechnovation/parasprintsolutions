@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Direct Engineering Estimator",
+  "title": "Calculate Corrugated Box Production & Pricing",
+  "intro": "Instant preliminary price tiering, bursting factor (BF) calculations, and tooling lead times for industrial corrugated cartons, master shippers, and die-cut mailers.",
+  "telemetryHeading": "Dynamic Factory Telemetry",
+  "unitLabel": "/ Box (Ex-Plant Ghaziabad / Delhi-NCR)",
+  "note": "Physical unprinted sample box & CAD dielines dispatched across India within 48 hours of confirmation.",
+  "usdRate": 84.5,
+  "minimumUnitCost": 4.5,
+  "defaultVolume": 25000,
+  "volumeSteps": [
+    { "value": 1000, "label": "1k MOQ (Trial Run)" },
+    { "value": 25000, "label": "25k (Standard Run)" },
+    { "value": 100000, "label": "100k+ (Enterprise OEM Contract)" }
+  ],
+  "boxStyles": [
+    { "value": "rsc", "label": "Regular Slotted Container (RSC Master Shipper)", "factor": 1 },
+    { "value": "diecut", "label": "Die-Cut Self-Locking Mailer (E-Commerce Box)", "factor": 1.22 },
+    { "value": "fol", "label": "Full Overlap Container (FOL Heavy Stacking)", "factor": 1.15 },
+    { "value": "hsc", "label": "Half Slotted Container (HSC with Telescope Lid)", "factor": 1.28 },
+    { "value": "tray", "label": "Corrugated Produce & Display Tray", "factor": 0.95 },
+    { "value": "octabin", "label": "7-Ply Heavy Industrial Bulk Bin / Octabin", "factor": 2.1 }
+  ],
+  "boardTypes": [
+    { "value": "3ply_b", "label": "3-Ply Single Wall (B-Flute 3mm • BF 18–22)", "base": 14.2, "bs": "11.5 kg/cm² (BF 18–20)", "ect": "32 lbs/in (ECT 32)", "stack": "Up to 160 kg Load", "lead": "4 - 6 Business Days" },
+    { "value": "3ply_c", "label": "3-Ply Single Wall (C-Flute 4mm • BF 22–26)", "base": 16.5, "bs": "13.8 kg/cm² (BF 22–26)", "ect": "36 lbs/in (ECT 36)", "stack": "Up to 220 kg Load", "lead": "5 - 7 Business Days" },
+    { "value": "3ply_e", "label": "3-Ply Micro-Flute (E-Flute 1.5mm • Retail Compact)", "base": 14.8, "bs": "10.2 kg/cm² (Compact)", "ect": "30 lbs/in (ECT 30)", "stack": "Up to 130 kg Load", "lead": "4 - 5 Business Days" },
+    { "value": "5ply_bc", "label": "5-Ply Double Wall (BC-Flute 7mm • Export BF 28–34)", "base": 23.5, "bs": "18.5 kg/cm² (BF 28–34)", "ect": "44 lbs/in (ECT 44)", "stack": "Up to 380 kg Load", "lead": "5 - 7 Business Days" },
+    { "value": "5ply_ab", "label": "5-Ply Double Wall (AB-Flute 8mm • Heavy Duty BF 32–38)", "base": 26.8, "bs": "22.0 kg/cm² (BF 32–38)", "ect": "48 lbs/in (ECT 48)", "stack": "Up to 480 kg Load", "lead": "6 - 8 Business Days" },
+    { "value": "7ply_heavy", "label": "7-Ply Triple Wall (AAA/ACB Flute 15mm • BF 40+)", "base": 46.5, "bs": "36.5 kg/cm² (BF 40+)", "ect": "65 lbs/in (ECT 65+)", "stack": "Up to 950 kg Load", "lead": "7 - 10 Business Days" }
+  ],
+  "dimensions": [
+    { "value": "small", "label": "Small Shipper (10\" × 8\" × 6\" / 250×200×150 mm)", "factor": 0.65 },
+    { "value": "medium", "label": "Medium Master (16\" × 12\" × 10\" / 400×300×250 mm)", "factor": 1 },
+    { "value": "large", "label": "Large Master Carton (22\" × 16\" × 14\" / 550×400×350 mm)", "factor": 1.55 },
+    { "value": "xlarge", "label": "Heavy Appliance (28\" × 22\" × 20\" / 700×550×500 mm)", "factor": 2.3 },
+    { "value": "custom", "label": "Custom CAD Dimensions (Engineered Dieline)", "factor": 1.2 }
+  ],
+  "paperQualities": [
+    { "value": "semi_kraft", "label": "Natural Semi-Kraft (18–20 BF Standard)", "factor": 0.92 },
+    { "value": "virgin_kraft", "label": "100% Virgin Kraft (24–28 BF High Tear)", "factor": 1 },
+    { "value": "golden_kraft", "label": "Premium Golden Kraft (28–34 BF Moisture Guard)", "factor": 1.12 },
+    { "value": "white_duplex", "label": "White Top Liner / Duplex Laminated (Offset Print)", "factor": 1.25 }
+  ],
+  "finishes": [
+    { "value": "flexo", "label": "Multi-Color Flexo Print", "add": 0.7 },
+    { "value": "litho", "label": "Litho-Lamination Offset", "add": 3.2 },
+    { "value": "moisture", "label": "Moisture Barrier Coating", "add": 1.1 },
+    { "value": "stitch", "label": "Steel Wire Joint Stitch", "add": 0.6 },
+    { "value": "handles", "label": "Die-Cut Hand Holes / Vents", "add": 0.5 },
+    { "value": "partitions", "label": "Internal Partitions", "add": 2.4 }
+  ],
+  "volumeTiers": [
+    { "min": 100000, "factor": 0.76 },
+    { "min": 50000, "factor": 0.82 },
+    { "min": 25000, "factor": 0.89 },
+    { "min": 10000, "factor": 0.96 },
+    { "min": 5000, "factor": 1.05 },
+    { "min": 0, "factor": 1.18 }
+  ]
+}

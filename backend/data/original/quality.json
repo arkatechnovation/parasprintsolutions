@@ -1,0 +1,21 @@
+{
+  "title": "High Reliability Metrology Center",
+  "intro": "Digital moisture calibration, bursting factor & edge crush tests for zero defect transit reliability.",
+  "facilityEst": "Facility Est: 1996 (28+ Yrs)",
+  "certifications": ["ISO 9001:2015", "BF / BS Lab Certified", "NABL Accredited Facility (as published on source site)"],
+  "tests": [
+    { "name": "Bursting Strength (BS) / Bursting Factor (BF)", "detail": "Digital bursting strength measurement with in-house lab verification across BF 18–35+ grades." },
+    { "name": "Edge Crush Test (ECT)", "detail": "Edge crush resistance measurement aligned to international benchmarks." },
+    { "name": "Stack Compression", "detail": "Stack compression validation for safe warehouse pallet stacking." },
+    { "name": "Drop Shock", "detail": "Drop shock testing for transit reliability." },
+    { "name": "GSM Analytical Balance", "detail": "Paper grammage verification on incoming board and liners." },
+    { "name": "Digital Paper Moisture Analysis", "detail": "Digital moisture calibration and moisture resistance checks." },
+    { "name": "Cobb Sizing", "detail": "Cobb sizing test for water absorbency of board." }
+  ],
+  "parameters": [
+    { "label": "Bursting Factor range", "value": "BF 18–35+" },
+    { "label": "Die-cutting accuracy", "value": "±0.15 mm" },
+    { "label": "Benchmarks", "value": "Bursting strength, edge crush, stack compression" },
+    { "label": "Quality gatechecks", "value": "Every stage, zero defective carton escapes" }
+  ]
+}

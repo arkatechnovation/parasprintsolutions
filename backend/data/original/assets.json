@@ -1,0 +1,719 @@
+{
+  "source": "Project assets folder",
+  "policy": "All 62 supplied images are served locally in their original JPEG/PNG formats. Next.js optimizes display sizes and formats on demand.",
+  "logo": {
+    "path": "/assets/logo.png",
+    "caption": "Brand logo",
+    "purpose": "Brand logo",
+    "width": 1808,
+    "height": 710,
+    "dimensions": "1808 x 710",
+    "sections": [
+      "Header",
+      "Footer"
+    ]
+  },
+  "items": [
+    {
+      "path": "/assets/01-textile.jpg",
+      "caption": "Textile and apparel packaging applications",
+      "purpose": "Textile and apparel packaging applications",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Industry applications"
+      ]
+    },
+    {
+      "path": "/assets/02-plastic.jpg",
+      "caption": "Bottle and consumer product packaging applications",
+      "purpose": "Bottle and consumer product packaging applications",
+      "width": 600,
+      "height": 900,
+      "dimensions": "600 x 900",
+      "sections": [
+        "Industry applications"
+      ]
+    },
+    {
+      "path": "/assets/11-ecommerce.jpg",
+      "caption": "Sea freight and container logistics",
+      "purpose": "Sea freight and container logistics",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Industry applications"
+      ]
+    },
+    {
+      "path": "/assets/about-boxes.jpg",
+      "caption": "About Paras Prints Solutions — company profile",
+      "purpose": "About Paras Prints Solutions — company profile",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "About overview"
+      ]
+    },
+    {
+      "path": "/assets/brochures-enterprise.jpg",
+      "caption": "Corporate brochures and folded print",
+      "purpose": "Corporate brochures and folded print",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/catalogues-enterprise.jpg",
+      "caption": "Multi-page product catalogues",
+      "purpose": "Multi-page product catalogues",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0001.jpg",
+      "caption": "Company profile cover",
+      "purpose": "Company profile cover",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0002.jpg",
+      "caption": "About us",
+      "purpose": "About us",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0003.jpg",
+      "caption": "Our products — introduction",
+      "purpose": "Our products — introduction",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0004.jpg",
+      "caption": "Our product portfolio",
+      "purpose": "Our product portfolio",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0005.jpg",
+      "caption": "Our precious clients — introduction",
+      "purpose": "Our precious clients — introduction",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0006.jpg",
+      "caption": "Our client list",
+      "purpose": "Our client list",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0007.jpg",
+      "caption": "Machinery setup — introduction",
+      "purpose": "Machinery setup — introduction",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0008.jpg",
+      "caption": "Machinery setup — printing and finishing",
+      "purpose": "Machinery setup — printing and finishing",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile",
+        "Machinery"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0009.jpg",
+      "caption": "Machinery setup — production equipment",
+      "purpose": "Machinery setup — production equipment",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile",
+        "Machinery"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0010.jpg",
+      "caption": "Machinery setup — corrugation equipment",
+      "purpose": "Machinery setup — corrugation equipment",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile",
+        "Machinery"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0011.jpg",
+      "caption": "Lab equipment — introduction",
+      "purpose": "Lab equipment — introduction",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0012.jpg",
+      "caption": "Laboratory testing equipment",
+      "purpose": "Laboratory testing equipment",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile",
+        "Laboratory"
+      ]
+    },
+    {
+      "path": "/assets/Company Profile Paras_page-0013.jpg",
+      "caption": "Company profile — contact details",
+      "purpose": "Company profile — contact details",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Company profile"
+      ]
+    },
+    {
+      "path": "/assets/corrugated-boxes-enterprise.jpg",
+      "caption": "Heavy-duty corrugated shipping boxes",
+      "purpose": "Heavy-duty corrugated shipping boxes",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/dealership-icon-manufacturing.jpg",
+      "caption": "Manufacturing capability",
+      "purpose": "Manufacturing capability",
+      "width": 1024,
+      "height": 1024,
+      "dimensions": "1024 x 1024",
+      "sections": [
+        "Partnership"
+      ]
+    },
+    {
+      "path": "/assets/dealership-icon-revenue.jpg",
+      "caption": "Business growth",
+      "purpose": "Business growth",
+      "width": 1024,
+      "height": 1024,
+      "dimensions": "1024 x 1024",
+      "sections": [
+        "Partnership"
+      ]
+    },
+    {
+      "path": "/assets/dealership-icon-support.jpg",
+      "caption": "Partner support",
+      "purpose": "Partner support",
+      "width": 1024,
+      "height": 1024,
+      "dimensions": "1024 x 1024",
+      "sections": [
+        "Partnership"
+      ]
+    },
+    {
+      "path": "/assets/dealership-icon-tailored.jpg",
+      "caption": "Tailored partnerships",
+      "purpose": "Tailored partnerships",
+      "width": 1024,
+      "height": 1024,
+      "dimensions": "1024 x 1024",
+      "sections": [
+        "Partnership"
+      ]
+    },
+    {
+      "path": "/assets/duplex-boxes-enterprise.jpg",
+      "caption": "Printed duplex monocartons",
+      "purpose": "Printed duplex monocartons",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/faq-mockup.jpg",
+      "caption": "Packaging specifications and sample planning",
+      "purpose": "Packaging specifications and sample planning",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Contact"
+      ]
+    },
+    {
+      "path": "/assets/hero-brochure-cover.jpg",
+      "caption": "Paras Prints Solutions — brochure cover",
+      "purpose": "Paras Prints Solutions — brochure cover",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "About overview"
+      ]
+    },
+    {
+      "path": "/assets/hero-product-showcase.jpg",
+      "caption": "Printed packaging showcase",
+      "purpose": "Printed packaging showcase",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Home hero",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/hero-showcase.jpg",
+      "caption": "Custom kraft and white packaging boxes",
+      "purpose": "Custom kraft and white packaging boxes",
+      "width": 1376,
+      "height": 768,
+      "dimensions": "1376 x 768",
+      "sections": [
+        "Home hero",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/industries/01-textile.jpg",
+      "caption": "Textile Industry — sector overview",
+      "purpose": "Textile Industry — sector overview",
+      "width": 1264,
+      "height": 848,
+      "dimensions": "1264 x 848",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/02-plastic.jpg",
+      "caption": "Plastic Industry — sector overview",
+      "purpose": "Plastic Industry — sector overview",
+      "width": 1264,
+      "height": 848,
+      "dimensions": "1264 x 848",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/03-food.jpg",
+      "caption": "Food Industry — sector overview",
+      "purpose": "Food Industry — sector overview",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/04-pharma.jpg",
+      "caption": "Pharmaceuticals — sector overview",
+      "purpose": "Pharmaceuticals — sector overview",
+      "width": 600,
+      "height": 420,
+      "dimensions": "600 x 420",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/05-chemicals.jpg",
+      "caption": "Chemicals & Fertilizers — sector overview",
+      "purpose": "Chemicals & Fertilizers — sector overview",
+      "width": 600,
+      "height": 399,
+      "dimensions": "600 x 399",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/06-engineering.jpg",
+      "caption": "Engineering Goods — sector overview",
+      "purpose": "Engineering Goods — sector overview",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/07-oil-petro.jpg",
+      "caption": "Oils & Petro — sector overview",
+      "purpose": "Oils & Petro — sector overview",
+      "width": 600,
+      "height": 900,
+      "dimensions": "600 x 900",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/08-automotive.jpg",
+      "caption": "Automotive Industry — sector overview",
+      "purpose": "Automotive Industry — sector overview",
+      "width": 600,
+      "height": 338,
+      "dimensions": "600 x 338",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/09-appliances.jpg",
+      "caption": "Home Appliance — sector overview",
+      "purpose": "Home Appliance — sector overview",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/10-air-cargo.jpg",
+      "caption": "Air Cargo & Logistics — sector overview",
+      "purpose": "Air Cargo & Logistics — sector overview",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/11-ecommerce.jpg",
+      "caption": "E-Commerce Industry — sector overview",
+      "purpose": "E-Commerce Industry — sector overview",
+      "width": 1264,
+      "height": 848,
+      "dimensions": "1264 x 848",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/industries/12-manufacturing.jpg",
+      "caption": "Manufacturing — sector overview",
+      "purpose": "Manufacturing — sector overview",
+      "width": 600,
+      "height": 400,
+      "dimensions": "600 x 400",
+      "sections": [
+        "Home industries"
+      ]
+    },
+    {
+      "path": "/assets/leaflets-print-showcase.jpg",
+      "caption": "Promotional leaflets and printed inserts",
+      "purpose": "Promotional leaflets and printed inserts",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/packaging-products-group.jpg",
+      "caption": "Packaging, paper bags and commercial print",
+      "purpose": "Packaging, paper bags and commercial print",
+      "width": 512,
+      "height": 345,
+      "dimensions": "512 x 345",
+      "sections": [
+        "Product overview"
+      ]
+    },
+    {
+      "path": "/assets/paper-bags-showcase.jpg",
+      "caption": "Kraft and duplex paper bags",
+      "purpose": "Kraft and duplex paper bags",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Products",
+        "Home products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/paras-plant-facility.jpg",
+      "caption": "Integrated printing and packaging facility",
+      "purpose": "Integrated printing and packaging facility",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "Home hero",
+        "About",
+        "Manufacturing",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/paras-products-collage.jpg",
+      "caption": "Packaging and commercial print range",
+      "purpose": "Packaging and commercial print range",
+      "width": 1200,
+      "height": 896,
+      "dimensions": "1200 x 896",
+      "sections": [
+        "About",
+        "Products",
+        "Gallery"
+      ]
+    },
+    {
+      "path": "/assets/partner-engineer.jpg",
+      "caption": "Packaging consultation representative",
+      "purpose": "Packaging consultation representative",
+      "width": 896,
+      "height": 1200,
+      "dimensions": "896 x 1200",
+      "sections": [
+        "Clients"
+      ]
+    },
+    {
+      "path": "/assets/precision-flute-stacks.jpg",
+      "caption": "Precision corrugated flute stacks",
+      "purpose": "Precision corrugated flute stacks",
+      "width": 1024,
+      "height": 1024,
+      "dimensions": "1024 x 1024",
+      "sections": [
+        "Gallery",
+        "Manufacturing"
+      ]
+    },
+    {
+      "path": "/assets/products-showcase.jpg",
+      "caption": "Company product portfolio",
+      "purpose": "Company product portfolio",
+      "width": 1241,
+      "height": 1754,
+      "dimensions": "1241 x 1754",
+      "sections": [
+        "Product overview"
+      ]
+    }
+  ],
+  "industryImages": [
+    {
+      "path": "/assets/paras_print_industry/01-textile-industry.jpg",
+      "caption": "Textile Industry — packaging applications",
+      "purpose": "Textile Industry — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/02-plastic-industry.jpg",
+      "caption": "Plastic Industry — packaging applications",
+      "purpose": "Plastic Industry — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/03-food-industry.jpg",
+      "caption": "Food Industry — packaging applications",
+      "purpose": "Food Industry — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/04-pharmaceuticals.jpg",
+      "caption": "Pharmaceuticals — packaging applications",
+      "purpose": "Pharmaceuticals — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/05-chemicals-fertilizers.jpg",
+      "caption": "Chemicals & Fertilizers — packaging applications",
+      "purpose": "Chemicals & Fertilizers — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/06-engineering-goods.jpg",
+      "caption": "Engineering Goods — packaging applications",
+      "purpose": "Engineering Goods — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/07-oils-petro.jpg",
+      "caption": "Oils & Petro — packaging applications",
+      "purpose": "Oils & Petro — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/08-automotive-industry.jpg",
+      "caption": "Automotive Industry — packaging applications",
+      "purpose": "Automotive Industry — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/09-home-appliance.jpg",
+      "caption": "Home Appliance — packaging applications",
+      "purpose": "Home Appliance — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/10-air-cargo-logistics.jpg",
+      "caption": "Air Cargo & Logistics — packaging applications",
+      "purpose": "Air Cargo & Logistics — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/11-ecommerce-industry.jpg",
+      "caption": "E-Commerce Industry — packaging applications",
+      "purpose": "E-Commerce Industry — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    },
+    {
+      "path": "/assets/paras_print_industry/12-manufacturing.jpg",
+      "caption": "Manufacturing — packaging applications",
+      "purpose": "Manufacturing — packaging applications",
+      "width": 1000,
+      "height": 600,
+      "dimensions": "1000 x 600",
+      "sections": [
+        "Industries"
+      ]
+    }
+  ],
+  "notes": [
+    "All supplied images are mapped to their relevant website sections.",
+    "Company profile pages and document artwork retain their full aspect ratio."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "topbar": "ESTD. 1996 • 28+ YEARS OF EXCELLENCE • B-8 B.S. ROAD INDUSTRIAL AREA, GHAZIABAD",
+  "primary": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    {
+      "label": "Products",
+      "href": "/products",
+      "columns": [
+        {
+          "title": "Packaging & Boxes",
+          "items": [
+            { "label": "Corrugated Boxes", "href": "/products/corrugated-boxes" },
+            { "label": "Duplex Boxes & Monocartons", "href": "/products/duplex-boxes-monocartons" },
+            { "label": "Paper Bags", "href": "/products/paper-bags" }
+          ]
+        },
+        {
+          "title": "Commercial Print",
+          "items": [
+            { "label": "Brochures", "href": "/products/brochures" },
+            { "label": "Catalogues", "href": "/products/catalogues" },
+            { "label": "Leaflets", "href": "/products/leaflets" }
+          ]
+        },
+        {
+          "title": "Stationery & Tapes",
+          "items": [
+            { "label": "Writing Pads", "href": "/products/writing-pads" },
+            { "label": "Digital Print", "href": "/products/digital-print" },
+            { "label": "BOPP Tapes", "href": "/products/bopp-tapes" }
+          ]
+        }
+      ]
+    },
+    { "label": "Manufacturing", "href": "/manufacturing" },
+    { "label": "Quality", "href": "/quality" },
+    { "label": "Industries", "href": "/industries" },
+    { "label": "Clients", "href": "/clients" },
+    { "label": "Gallery", "href": "/gallery" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "searchPlaceholder": "Search products",
+  "searchEmptyTitle": "No products matching",
+  "searchEmptyBody": "We provide custom engineered sizes and specifications.",
+  "searchCta": "Request Custom Packaging"
+}

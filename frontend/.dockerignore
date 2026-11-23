@@ -1,0 +1,14 @@
+node_modules
+**/node_modules
+.next
+**/.next
+.env*
+**/.env*
+!**/.env.example
+.local-backup
+backend/.data
+backend/uploads
+tmp
+output
+.git
+tmp-*

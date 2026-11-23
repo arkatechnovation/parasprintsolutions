@@ -1,0 +1,91 @@
+{
+  "eyebrow": "SECTORS & APPLICATIONS",
+  "title": "The Industries We Serve",
+  "intro": "From high-burst master cartons to moisture-barrier containers and retail packaging, we engineer custom solutions calibrated for India's high-demand industrial sectors.",
+  "items": [
+    {
+      "slug": "textile",
+      "name": "Textile Industry",
+      "application": "Yarn & Fabric Roll Shippers",
+      "image": "/assets/paras_print_industry/01-textile-industry.jpg",
+      "overviewImage": "/assets/industries/01-textile.jpg"
+    },
+    {
+      "slug": "plastic",
+      "name": "Plastic Industry",
+      "application": "Polymer & Molded Goods Boxes",
+      "image": "/assets/paras_print_industry/02-plastic-industry.jpg",
+      "overviewImage": "/assets/industries/02-plastic.jpg"
+    },
+    {
+      "slug": "food",
+      "name": "Food Industry",
+      "application": "Food-Grade Certified Packaging",
+      "image": "/assets/paras_print_industry/03-food-industry.jpg",
+      "overviewImage": "/assets/industries/03-food.jpg"
+    },
+    {
+      "slug": "pharmaceuticals",
+      "name": "Pharmaceuticals",
+      "application": "Monocartons & Pharma Inserts",
+      "image": "/assets/paras_print_industry/04-pharmaceuticals.jpg",
+      "overviewImage": "/assets/industries/04-pharma.jpg"
+    },
+    {
+      "slug": "chemicals-fertilizers",
+      "name": "Chemicals & Fertilizers",
+      "application": "Heavy Moisture-Barrier 5-Ply",
+      "image": "/assets/paras_print_industry/05-chemicals-fertilizers.jpg",
+      "overviewImage": "/assets/industries/05-chemicals.jpg"
+    },
+    {
+      "slug": "engineering-goods",
+      "name": "Engineering Goods",
+      "application": "High-BF & Edge-Crush Crates",
+      "image": "/assets/paras_print_industry/06-engineering-goods.jpg",
+      "overviewImage": "/assets/industries/06-engineering.jpg"
+    },
+    {
+      "slug": "oils-petro",
+      "name": "Oils & Petro",
+      "application": "Leak-Resistant Master Cartons",
+      "image": "/assets/paras_print_industry/07-oils-petro.jpg",
+      "overviewImage": "/assets/industries/07-oil-petro.jpg"
+    },
+    {
+      "slug": "automotive",
+      "name": "Automotive Industry",
+      "application": "CKD Spares & Component Packs",
+      "image": "/assets/paras_print_industry/08-automotive-industry.jpg",
+      "overviewImage": "/assets/industries/08-automotive.jpg"
+    },
+    {
+      "slug": "home-appliance",
+      "name": "Home Appliance",
+      "application": "Heavy Drop-Tested Master Packs",
+      "image": "/assets/paras_print_industry/09-home-appliance.jpg",
+      "overviewImage": "/assets/industries/09-appliances.jpg"
+    },
+    {
+      "slug": "air-cargo-logistics",
+      "name": "Air Cargo & Logistics",
+      "application": "IATA Container Cube Fill Optim",
+      "image": "/assets/paras_print_industry/10-air-cargo-logistics.jpg",
+      "overviewImage": "/assets/industries/10-air-cargo.jpg"
+    },
+    {
+      "slug": "ecommerce",
+      "name": "E-Commerce Industry",
+      "application": "Self-Locking Mailers & Peels",
+      "image": "/assets/paras_print_industry/11-ecommerce-industry.jpg",
+      "overviewImage": "/assets/industries/11-ecommerce.jpg"
+    },
+    {
+      "slug": "manufacturing",
+      "name": "Manufacturing",
+      "application": "Heavy 7-Ply Bulk Octabins",
+      "image": "/assets/paras_print_industry/12-manufacturing.jpg",
+      "overviewImage": "/assets/industries/12-manufacturing.jpg"
+    }
+  ]
+}

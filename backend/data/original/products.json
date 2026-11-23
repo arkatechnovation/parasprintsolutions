@@ -1,0 +1,187 @@
+{
+  "matrixHeading": "PARAS PRINTS SOLUTIONS · CORE MANUFACTURING PORTFOLIO",
+  "matrixTitle": "Engineered Packaging & Commercial Print Solutions",
+  "matrixIntro": "Manufactured with high-speed Komori 6-colour presses and automated corrugators at our 35,000+ sq. ft. Ghaziabad plant, rigorously tested to ISO 9001:2015 standards.",
+  "matrixCta": "Instant Packaging Calculator",
+  "categories": [
+    {
+      "id": "packaging-boxes",
+      "title": "Packaging & Boxes",
+      "groupTitle": "Industrial & Retail Packaging",
+      "groupSub": "Heavy-Duty Corrugation, Duplex Monocartons & Custom Paper Bags"
+    },
+    {
+      "id": "commercial-print",
+      "title": "Commercial Print",
+      "groupTitle": "High-Volume Offset Print",
+      "groupSub": "High-Speed Komori 6-Colour UV Offset Marketing Collateral & Catalogues"
+    },
+    {
+      "id": "stationery-tapes",
+      "title": "Stationery & Tapes",
+      "groupTitle": "Corporate Stationery & Packaging Consumables",
+      "groupSub": "Writing Pads, Digital Print & Printed BOPP Tapes"
+    }
+  ],
+  "items": [
+    {
+      "slug": "corrugated-boxes",
+      "name": "Corrugated Boxes",
+      "category": "Packaging & Boxes",
+      "categoryId": "packaging-boxes",
+      "image": "/assets/corrugated-boxes-enterprise.jpg",
+      "alt": "Heavy-duty corrugated boxes - 3, 5 and 7 ply master shippers manufactured by Paras Prints",
+      "badges": ["3, 5 & 7-PLY", "HEAVY DUTY", "Flutes A, B, C, E", "BF 18–35+ Lab Tested"],
+      "summary": "Engineered master shippers, regular slotted containers (RSC), and precision die-cut trays with high burst resistance and stack compression strength for appliances, FMCG, and automotive items.",
+      "searchTags": ["box", "carton", "shipping", "flute", "3 ply", "5 ply", "7 ply", "brown", "master carton", "rsc", "export"],
+      "highlights": [
+        "3, 5 & 7-ply construction on automatic corrugator",
+        "Flute profiles A, B, C and E",
+        "Bursting Factor (BF) 18–35+ lab tested",
+        "Master shippers, RSC and die-cut trays"
+      ],
+      "boxStyles": ["Regular Slotted Container (RSC Master Shipper)", "Die-Cut Self-Locking Mailer (E-Commerce Box)", "Full Overlap Container (FOL Heavy Stacking)", "Half Slotted Container (HSC with Telescope Lid)", "Corrugated Produce & Display Tray", "7-Ply Heavy Industrial Bulk Bin / Octabin"]
+    },
+    {
+      "slug": "duplex-boxes-monocartons",
+      "name": "Duplex Boxes & Monocartons",
+      "category": "Packaging & Boxes",
+      "categoryId": "packaging-boxes",
+      "image": "/assets/duplex-boxes-enterprise.jpg",
+      "alt": "Printed duplex monocartons and rigid gift boxes with foil and UV finishes",
+      "badges": ["MONOCARTONS", "FOIL & UV", "250–450+ GSM", "Grey & White Back"],
+      "summary": "High-definition printed monocartons, luxury rigid presentation boxes, and consumer electronics retail packs with metallic foil stamping, hybrid UV gloss/matte effects, and computerized die-cutting.",
+      "searchTags": ["duplex", "monocarton", "foil", "retail", "gift box", "rigid box", "uv"],
+      "highlights": [
+        "Duplex board 250–450+ GSM, grey back and white back",
+        "Metallic foil stamping and hybrid UV gloss/matte effects",
+        "Computerized die-cutting for dimensional stability",
+        "Luxury rigid presentation boxes and retail packs"
+      ]
+    },
+    {
+      "slug": "paper-bags",
+      "name": "Paper Bags",
+      "category": "Packaging & Boxes",
+      "categoryId": "packaging-boxes",
+      "image": "/assets/paper-bags-showcase.jpg",
+      "alt": "Kraft and duplex paper bags with twisted cord and ribbon handles",
+      "badges": ["ECO KRAFT", "REINFORCED", "120–250 GSM", "Rope & D-Cut"],
+      "summary": "Sustainable virgin brown kraft and luxury laminated duplex retail shopping bags with heavy bottom boards, twisted cord, or grosgrain ribbon handles for premium retail, showrooms, and corporate branding.",
+      "searchTags": ["eco", "Eco Bag", "carry bag", "handle", "kraft", "retail", "brown"],
+      "highlights": [
+        "Kraft and laminated duplex constructions",
+        "120–250 GSM paper range",
+        "Twisted cord, grosgrain ribbon and rope handles",
+        "Reinforced heavy bottom boards"
+      ]
+    },
+    {
+      "slug": "brochures",
+      "name": "Brochures",
+      "category": "Commercial Print",
+      "categoryId": "commercial-print",
+      "image": "/assets/brochures-enterprise.jpg",
+      "alt": "Multi-fold corporate brochures printed on Komori 6-colour UV offset press",
+      "badges": ["MULTI-FOLD", "6-COLOUR UV", "170–350 GSM", "Spot UV & Drip Off"],
+      "summary": "Multi-page corporate brochures, corporate profiles, and technical sales brochures with Komori 6-colour registration, thermal matte lamination, spot gloss UV, and automated precision fold creasing.",
+      "searchTags": ["Brochures", "flyer", "folded", "print", "proof", "short run"],
+      "highlights": [
+        "Komori 6-colour registration with inline coating",
+        "Thermal matte lamination, spot gloss UV and drip-off finishes",
+        "Automated precision fold creasing",
+        "170–350 GSM art paper range"
+      ]
+    },
+    {
+      "slug": "catalogues",
+      "name": "Catalogues",
+      "category": "Commercial Print",
+      "categoryId": "commercial-print",
+      "image": "/assets/catalogues-enterprise.jpg",
+      "alt": "Multi-page product catalogues with perfect binding and section sewing",
+      "badges": ["PERFECT BOUND", "MULTI-PAGE", "Up to 240+ Pages", "Section Sewn"],
+      "summary": "Thick multi-page product catalogues, dealer manuals, and technical booklets. Automated saddle stitching, wire-o binding, or high-durability PUR perfect binding with square back spine finish.",
+      "searchTags": ["Catalogues", "Catalog", "manual", "product list", "bill"],
+      "highlights": [
+        "Up to 240+ pages",
+        "Saddle stitching, wire-o binding and PUR perfect binding",
+        "Square back spine finish",
+        "Dealer manuals and technical booklets"
+      ]
+    },
+    {
+      "slug": "leaflets",
+      "name": "Leaflets",
+      "category": "Commercial Print",
+      "categoryId": "commercial-print",
+      "image": "/assets/leaflets-print-showcase.jpg",
+      "alt": "Pharma package inserts and promotional leaflets with accordion folding",
+      "badges": ["ACCORDION FOLD", "HIGH SPEED", "60–130 GSM", "Pharma & Retail"],
+      "summary": "Medical package inserts (IFU), warranty cards, and promotional leaflets folded with automated miniature folding machines. High contrast microscopic text legibility with barcode verification.",
+      "searchTags": ["Leaflets", "leaflet", "insert", "warranty", "pharma", "fmcg"],
+      "highlights": [
+        "Medical package inserts (IFU) and warranty cards",
+        "Automated miniature folding machines",
+        "60–130 GSM paper range",
+        "High contrast microscopic text legibility with barcode verification"
+      ]
+    },
+    {
+      "slug": "writing-pads",
+      "name": "Writing Pads",
+      "category": "Stationery & Tapes",
+      "categoryId": "stationery-tapes",
+      "image": "/assets/paras-products-collage.jpg",
+      "alt": "Corporate writing pads and printed stationery produced by Paras Prints Solutions",
+      "badges": ["CORPORATE STATIONERY", "NOTEPAD", "PRINTED"],
+      "summary": "Corporate writing pads and printed stationery supplied alongside commercial print programmes for business houses and brand owners.",
+      "searchTags": ["Writing Pad", "writing pad", "notepad", "stationery", "manual"],
+      "highlights": [
+        "Corporate writing pads and office stationery",
+        "Grouped with leaflets in our stationery portfolio",
+        "Printed on the same Komori offset lines"
+      ]
+    },
+    {
+      "slug": "digital-print",
+      "name": "Digital Print",
+      "category": "Stationery & Tapes",
+      "categoryId": "stationery-tapes",
+      "image": "/assets/paras-products-collage.jpg",
+      "alt": "Digital print and short-run commercial print jobs",
+      "badges": ["SHORT RUN", "DIGITAL", "FAST TURNAROUND"],
+      "summary": "Digital print runs for short-run and quick-turnaround requirements, offered alongside our offset and corrugation capabilities.",
+      "searchTags": ["Digital", "digital print", "short run", "quick", "proof"],
+      "highlights": [
+        "Short-run digital print output",
+        "Quick-turnaround proofing and pilots",
+        "Offered alongside offset and corrugation lines"
+      ]
+    },
+    {
+      "slug": "bopp-tapes",
+      "name": "BOPP Tapes",
+      "category": "Stationery & Tapes",
+      "categoryId": "stationery-tapes",
+      "image": "/assets/paras-products-collage.jpg",
+      "alt": "Printed BOPP packaging tapes for carton sealing",
+      "badges": ["PACKAGING CONSUMABLE", "PRINTED TAPE", "CARTON SEALING"],
+      "summary": "Printed BOPP tapes supplied as packaging consumables for carton sealing and brand identification across dispatch lines.",
+      "searchTags": ["BOPP Tapes", "bopp", "tape", "printed tape"],
+      "highlights": [
+        "Printed BOPP tapes for carton sealing",
+        "Brand identification on dispatch cartons",
+        "Supplied with corrugated packaging programmes"
+      ]
+    }
+  ],
+  "formInterests": [
+    "Corrugated Boxes (3, 5 & 7-Ply Master Shippers)",
+    "Die-Cut Corrugated Mailers & E-Commerce Boxes",
+    "Duplex Monocartons & Foil Stamped Packaging",
+    "Luxury Kraft Paper Bags (Twisted Cord Handle)",
+    "Brochures, Catalogues & Marketing Collateral",
+    "Custom CAD Dieline / Physical Sample Box Kit"
+  ]
+}

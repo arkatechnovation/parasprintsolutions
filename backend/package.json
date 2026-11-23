@@ -1,0 +1,31 @@
+{
+  "name": "@paras/backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node src/server.js --local",
+    "start": "node src/server.js",
+    "seed": "node src/seed.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js",
+    "uploads:cleanup": "node src/cleanup-uploads.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.2.1",
+    "file-type": "^21.1.1",
+    "helmet": "^8.1.0",
+    "mongoose": "^9.0.0",
+    "multer": "^2.0.2",
+    "nodemailer": "^10.6.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "mongodb-memory-server-core": "^10.3.0",
+    "supertest": "^7.1.4"
+  }
+}

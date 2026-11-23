@@ -1,0 +1,30 @@
+{
+  "eyebrow": "OUR PRECIOUS CLIENTS",
+  "heading": "Trusted by 50+ Industry Giants Across India",
+  "intro": "Paras Prints Solutions is proud to be the exclusive and primary packaging partner for premier electrical, electronics, lighting, transformer, and appliance manufacturers.",
+  "supplyClaim": "Supplying over 35 enterprise brands continuously for 10+ consecutive fiscal years.",
+  "supplyCta": "Become a Partner",
+  "count": 19,
+  "items": [
+    { "name": "Sturlite Electric Pvt. Ltd.", "sector": "Electrical & Lighting" },
+    { "name": "Adsun Lighting", "sector": "LED Consumer Goods" },
+    { "name": "Modern Transformers", "sector": "Heavy Power Equipment" },
+    { "name": "Billtech Electricals", "sector": "Switchgear & Wiring" },
+    { "name": "Cervo Electrical & Lighting", "sector": "Architectural Lights" },
+    { "name": "M.K. Electronics", "sector": "Consumer Electronics" },
+    { "name": "Fido Electricals", "sector": "Power Distribution" },
+    { "name": "Oushi Lighting Pvt. Ltd.", "sector": "Commercial Fixtures" },
+    { "name": "Glow Green Energy Ltd.", "sector": "Renewables & Solar" },
+    { "name": "Miio Energy Private Limited", "sector": "Energy Storage" },
+    { "name": "Bansal Moulders Pvt. Ltd.", "sector": "Polymer Tooling" },
+    { "name": "SMD LED & EMS Pvt. Ltd.", "sector": "Surface Mount & EMS" },
+    { "name": "S.V. Electronics", "sector": "Component Packaging" },
+    { "name": "Victor LED Lights", "sector": "Industrial Luminaires" },
+    { "name": "Vistas Electricals LLP", "sector": "Circuit Controls" },
+    { "name": "Ledure Lightings Ltd.", "sector": "Smart LED Fixtures" },
+    { "name": "Vishesh Packaging", "sector": "Allied Packaging" },
+    { "name": "Mysore Home Appliances", "sector": "White Goods & Kitchen" },
+    { "name": "LG Gain (Coimbatore)", "sector": "South Hub Logistics" },
+    { "name": "Switchify Electric Pvt. Ltd.", "sector": "Modular Switchgear" }
+  ]
+}

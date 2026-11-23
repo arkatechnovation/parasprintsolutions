@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Local databases, storage and temporary uploads
+.data/
+uploads/
+tmp/
+temp/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Logs and debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Coverage and test output
+coverage/
+.nyc_output/
+
+# Backups and OS files
+.local-backup/
+.DS_Store
+Thumbs.db
+
